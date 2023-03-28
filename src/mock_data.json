@@ -13,5 +13,55 @@
       "B. Truy cập ngẫu nhiên"
     ],
     "answer": ["A", "B"]
+  },
+  {
+    "question": "Các bàn phím nào là bàn phím công thái học?",
+    "img": null,
+    "options": [
+      "A. Bàn phím chia đôi",
+      "B. Bàn phím điều chỉnh cho phù hợp với sự di chuyển của cổ tay",
+      "C. Bàn phím USB mỏng",
+      "D. Bàn phím gắn them các phím chức năng"
+    ],
+    "answer": ["A", "B"]
+  },
+  {
+    "question": "Loại máy tính nào thường dung để chạy phần mềm chuyên môn hóa (Specialized) và được dành để chia sẻ tài nguyên, quản lý nguồn dữ liệu lớn?",
+    "img": null,
+    "options": ["A. Netbook", "B. Desktop", "C. Tablet", "D. Server"],
+    "answer": ["D"]
+  },
+  {
+    "question": "Ý nghĩa của ký hiệu Hz là gì?",
+    "img": null,
+    "options": [
+      "A. Tốc độ xung nhịp bên trong của máy tính trong mỗi chu kỳ",
+      "B. Tốc độ kết nối Internet",
+      "C. Số lượng dữ liệu có thể được lưu trữ trên máy tính",
+      "D. Tốc độ quay của quạt chip"
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Cái nào sau đây là thành phần của Hệ nhị phân?",
+    "img": null,
+    "options": [
+      "A. Các số 0 và các số 1",
+      "B. Dấu chấm câu và dấu phẩy",
+      "C. 1,024 byte",
+      "D. Số lượng RAM trong máy tính"
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Thiết bị nào sau đây là bộ khung (một cách gọi khác là thùng máy) của máy tính?",
+    "img": null,
+    "options": [
+      "A. ROM Memory chip",
+      "B. Power supply",
+      "C. System unit",
+      "D. Computer case"
+    ],
+    "answer": ["D"]
   }
 ]

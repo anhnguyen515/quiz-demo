@@ -20,14 +20,19 @@ function App() {
           <Typography variant="h1" fontSize={"3rem"}>
             Quiz Demo
           </Typography>
-          <Typography>
+          <Typography color="neutral">
             20 câu hỏi ngẫu nhiên sẽ được chọn từ ngân hàng câu hỏi.
           </Typography>
-          <Typography>Mỗi câu hỏi có thể có nhiều đáp án.</Typography>
-          <Typography>Không giới hạn thời gian làm bài.</Typography>
-          <Typography>
-            Bạn sẽ nhận được đáp án của câu hỏi trước sau khi chuyển sang câu
-            tiếp theo.
+          <Typography color="neutral">
+            Mỗi câu hỏi có thể có nhiều đáp án, vì thế hãy chọn tất cả đáp án
+            bạn thấy đúng nhất.
+          </Typography>
+          <Typography color="neutral">
+            Bạn sẽ nhận được đáp án của câu hỏi sau khi chuyển sang câu tiếp
+            theo.
+          </Typography>
+          <Typography color="neutral">
+            Không giới hạn thời gian làm bài test.
           </Typography>
         </Stack>
         <Button
@@ -37,7 +42,7 @@ function App() {
           startDecorator={<PlayArrowRoundedIcon />}
           variant="soft"
         >
-          Bắt đầu làm bài
+          Bắt đầu
         </Button>
       </Stack>
     </>

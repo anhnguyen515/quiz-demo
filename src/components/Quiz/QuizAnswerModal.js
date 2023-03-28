@@ -1,7 +1,7 @@
 import CheckRoundedIcon from "@mui/icons-material/CheckRounded";
 import CloseRoundedIcon from "@mui/icons-material/CloseRounded";
 import NavigateNextRoundedIcon from "@mui/icons-material/NavigateNextRounded";
-import { Box, Grid, Stack } from "@mui/joy";
+import { Box, Divider, Stack } from "@mui/joy";
 import Button from "@mui/joy/Button";
 import Modal from "@mui/joy/Modal";
 import Sheet from "@mui/joy/Sheet";
@@ -11,6 +11,7 @@ import { equalArrays } from "../../utils/utils";
 
 export default function QuizAnswerModal({
   answers,
+  questions,
   question,
   quizNumber,
   handleNextQuestion,
@@ -21,17 +22,18 @@ export default function QuizAnswerModal({
   return (
     <React.Fragment>
       <Button
-        color="neutral"
+        color="success"
         disabled={answers.length === 0}
-        endDecorator={<NavigateNextRoundedIcon />}
+        startDecorator={<CheckRoundedIcon />}
         onClick={() => {
           setOpen(true);
           if (equalArrays(answers, question.answer)) {
             handleIncrementScore();
           }
         }}
+        variant="outlined"
       >
-        Câu tiếp theo
+        Xác nhận
       </Button>
       <Modal
         aria-labelledby="modal-title"
@@ -42,7 +44,7 @@ export default function QuizAnswerModal({
       >
         <Sheet
           sx={{
-            maxWidth: 600,
+            maxWidth: 700,
             borderRadius: "md",
             p: 4,
             boxShadow: "lg",
@@ -68,13 +70,20 @@ export default function QuizAnswerModal({
               : "Chưa chính xác..."}
           </Typography>
           <Box mt={3}>
-            <Typography>
+            <Typography fontSize={"1.15rem"}>
               Câu {quizNumber}. {question.question}
             </Typography>
-            <Grid container spacing={1} mt={1}>
-              <Grid item xs={12} sm={6}>
-                <Typography fontWeight={600} gutterBottom>
-                  Bạn chọn
+            <Stack
+              alignItems={"center"}
+              direction={"row"}
+              justifyContent={"space-between"}
+              divider={<Divider orientation="vertical" sx={{ mx: 2 }} />}
+              gap={1}
+              my={2}
+            >
+              <Stack sx={{ flex: 1 }}>
+                <Typography fontWeight={600} gutterBottom textAlign={"center"}>
+                  Đáp án của bạn
                 </Typography>
                 <Stack>
                   {question.options.map((item, index) => (
@@ -89,10 +98,11 @@ export default function QuizAnswerModal({
                     </Typography>
                   ))}
                 </Stack>
-              </Grid>
-              <Grid item xs={12} sm={6}>
-                <Typography fontWeight={600} gutterBottom>
-                  Đáp án
+              </Stack>
+
+              <Stack sx={{ flex: 1 }}>
+                <Typography fontWeight={600} gutterBottom textAlign={"center"}>
+                  Đáp án đúng
                 </Typography>
                 <Stack>
                   {question.options.map((item, index) => (
@@ -111,18 +121,27 @@ export default function QuizAnswerModal({
                     </Typography>
                   ))}
                 </Stack>
-              </Grid>
-            </Grid>
+              </Stack>
+            </Stack>
           </Box>
           <Stack mt={3}>
             <Button
-              endDecorator={<NavigateNextRoundedIcon />}
+              color={quizNumber === questions.length ? "success" : "neutral"}
+              endDecorator={
+                quizNumber === questions.length ? (
+                  <CheckRoundedIcon />
+                ) : (
+                  <NavigateNextRoundedIcon />
+                )
+              }
               onClick={() => {
                 handleNextQuestion();
                 setOpen(false);
               }}
             >
-              Câu tiếp theo
+              {quizNumber === questions.length
+                ? "Hoàn thành bài làm"
+                : "Câu tiếp theo"}
             </Button>
           </Stack>
         </Sheet>
