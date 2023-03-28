@@ -1,17 +1,34 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import "@fontsource/public-sans";
+import React from "react";
+import ReactDOM from "react-dom/client";
+import {
+  createBrowserRouter,
+  createRoutesFromElements,
+  Route,
+  RouterProvider,
+} from "react-router-dom";
+import "./index.css";
+import MainLayout from "./layouts/MainLayout";
+import App from "./pages/Home";
+import QuizPage from "./pages/Quiz";
+import ResultPage from "./pages/Result";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <>
+      <Route path="/" element={<App />} />
+      <Route path="quiz" element={<QuizPage />} />
+      <Route path="result" element={<ResultPage />} />
+      {/* ... etc. */}
+    </>
+  )
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+  <React.StrictMode>
+    <MainLayout>
+      <RouterProvider router={router} />
+    </MainLayout>
+  </React.StrictMode>
+);

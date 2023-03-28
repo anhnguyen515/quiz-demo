@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Thành phần nào quyết định việc khởi động máy tính?",
+    "img": null,
+    "options": ["A. ROM Bios", "B. RAM", "C. CPU", "D. Power"],
+    "answer": ["A"]
+  },
+  {
+    "question": "SRAM và DRAM là loại bộ nhớ có đặc điểm gì?",
+    "img": null,
+    "options": [
+      "A.  Khả biến (dữ liệu bị mất khi tắt máy)",
+      "B. Truy cập ngẫu nhiên"
+    ],
+    "answer": ["A", "B"]
+  }
+]
