@@ -61,7 +61,7 @@ export default function ResultPage() {
                 : "danger"
             }
             determinate
-            value={+searchParams.get("score")}
+            value={+searchParams.get("score") * (100 / MAX_NUM_QUESTIONS)}
             size={"lg"}
           />
         </Stack>
