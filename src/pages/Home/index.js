@@ -1,8 +1,14 @@
 import PlayArrowRoundedIcon from "@mui/icons-material/PlayArrowRounded";
 import { Button, Stack, Typography } from "@mui/joy";
+import React from "react";
 import { Link } from "react-router-dom";
+import { SITE_NAME } from "../../utils/constants";
 
 function App() {
+  React.useEffect(() => {
+    document.title = SITE_NAME;
+  }, []);
+
   return (
     <>
       <Stack

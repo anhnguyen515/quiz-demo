@@ -15,52 +15,210 @@
     "answer": ["A", "B"]
   },
   {
-    "question": "Các bàn phím nào là bàn phím công thái học?",
+    "question": "Các bàn phím nào là bàn phím công thái?",
     "img": null,
     "options": [
-      "A. Bàn phím chia đôi",
-      "B. Bàn phím điều chỉnh cho phù hợp với sự di chuyển của cổ tay",
-      "C. Bàn phím USB mỏng",
-      "D. Bàn phím gắn them các phím chức năng"
+      "A.  Bàn phím chia đôi.",
+      "B.  Bàn phím điều chỉnh cho phù hợp với sự di chuyển của cổ tay.",
+      "C.  Bàn phím USB mỏng.",
+      "D.  Bàn phím gắn them các phím chức năng."
     ],
     "answer": ["A", "B"]
   },
   {
     "question": "Loại máy tính nào thường dung để chạy phần mềm chuyên môn hóa (Specialized) và được dành để chia sẻ tài nguyên, quản lý nguồn dữ liệu lớn?",
     "img": null,
-    "options": ["A. Netbook", "B. Desktop", "C. Tablet", "D. Server"],
+    "options": ["A.  Netbook.", "B.  Desktop.", "C.  Tablet.", "D.  Server."],
     "answer": ["D"]
   },
   {
-    "question": "Ý nghĩa của ký hiệu Hz là gì?",
+    "question": "ROM là viết tắt của cụm từ nào dưới đây?",
     "img": null,
     "options": [
-      "A. Tốc độ xung nhịp bên trong của máy tính trong mỗi chu kỳ",
-      "B. Tốc độ kết nối Internet",
-      "C. Số lượng dữ liệu có thể được lưu trữ trên máy tính",
-      "D. Tốc độ quay của quạt chip"
+      "A.  StoRage of Memory.",
+      "B.  Resources of Memory.",
+      "C.  Read Only Memory.",
+      "D.  Random Output Measure."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Dung lượng RAM thường được đo bằng đơn vị nào?",
+    "img": null,
+    "options": [
+      "A.  Megabytes hoặc Gigabytes.",
+      "B.  Megabits trên giây hoặc Gigabits trên giây.",
+      "C.  Megahertz hoặc Gigahertz.",
+      "D.  Bits hoặc bytes."
     ],
     "answer": ["A"]
   },
   {
-    "question": "Cái nào sau đây là thành phần của Hệ nhị phân?",
+    "question": "Thiết bị nào được dùng làm thiết bị lưu trữ chính cho dữ liệu và các chương trình trên một máy tính để bàn?",
     "img": null,
     "options": [
-      "A. Các số 0 và các số 1",
-      "B. Dấu chấm câu và dấu phẩy",
-      "C. 1,024 byte",
-      "D. Số lượng RAM trong máy tính"
+      "A.  Đĩa mạng (netword drive).",
+      "B.  Đĩa quang (optical drive).",
+      "C.  Flash.",
+      "D.  Đĩa cứng (hard drive)."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Ba lợi thế của các ổ đĩa thể rắn so với ổ đĩa từ tính truyền thống là gì?",
+    "img": null,
+    "options": [
+      "A.  Không suy hao theo thời gian và quá trình sử dụng.",
+      "B.  Thời gian khởi động nhanh hơn.",
+      "C.  Không yêu cầu cung cấp nguồn điện lien tục để duy trì dữ liệu.",
+      "D.  Không cần bộ pin dự phòng.",
+      "E.  Không có bộ phận chuyển động nên ít bị gãy, vỡ.",
+      "F.  Ít tỏa nhiệt hơn."
+    ],
+    "answer": ["B", "E", "F"]
+  },
+  {
+    "question": "Ba chức năng chính của một thiết bị nhập (input)/xuất(output) là gì?",
+    "img": null,
+    "options": [
+      "A.  Tự động tải nội dung từ Internet.",
+      "B.  Hiển thị thông tin từ máy tính.",
+      "C.  Giao tiếp giữa các máy tính.",
+      "D.  Tự động chỉ hướng cho những văn bản bạn gõ vào máy in.",
+      "E.  Gửi thông tin vào máy tính."
+    ],
+    "answer": ["B", "E"]
+  },
+  {
+    "question": "Bạn chọn một biểu tượng trên màn hình bằng cách sử dụng thiết bị trỏ (pointing devices) như thế nào?",
+    "img": null,
+    "options": [
+      "A.  Nhấp vào biểu tượng trên màn hình.",
+      "B.  Kích chuột phải vào biểu tượng trên màn hình.",
+      "C.  Double) click vào biểu tượng trên màn hình.",
+      "D.  dNhấn Ctrl khi bạn nhấp vào con trỏ trên màn hình."
     ],
     "answer": ["A"]
   },
   {
-    "question": "Thiết bị nào sau đây là bộ khung (một cách gọi khác là thùng máy) của máy tính?",
+    "question": "Nếu bạn có một thiết bị màn hình cảm ứng như iPad, khi đó hai thiết bị trỏ (pointing devices) mà bạn có thể sử dụng thay thế nếu bạn không có một con chuột là?",
     "img": null,
     "options": [
-      "A. ROM Memory chip",
-      "B. Power supply",
-      "C. System unit",
-      "D. Computer case"
+      "A.  Stylus.",
+      "B.  Pencil.",
+      "C.  Bàn phím.",
+      "D.  Phím chức năng F1.",
+      "E.  Finger (Ngón tay)."
+    ],
+    "answer": ["A", "E"]
+  },
+  {
+    "question": "Máy tính sẽ thực hiện việc gì khi bạn khởi động một chương trình ứng dụng?",
+    "img": null,
+    "options": [
+      "A.  Nạp một bản sao của các chỉ dẫn hoạt động của chương trình vào bộ nhớ RAM.",
+      "B.  Lưu trữ các tập tin làm việc trước đó của chương trình ứng dụng.",
+      "C.  Kiểm tra dung lượng còn trống trên ổ đĩa cứng.",
+      "D.  Đóng tất cả các chương trình ứng dụng khác đang được mở."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Khi bạn bật máy tính, hệ thống sẽ hiển thị cái gì trước tiên?",
+    "img": null,
+    "options": [
+      "A.  Kết nối mạng.",
+      "B.  Chương trình phần mềm được cài đặt.",
+      "C.  Hệ điều hành.",
+      "D.  Kết nối điện."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Một chương trình máy tính là gì?",
+    "img": null,
+    "options": [
+      "A.  Một tập các bước mà người sử dụng phải tuân theo để mua phần mềm.",
+      "B.  Thiết lập các quy tắc mà người sử dụng phải tuân theo khi sử dụng phần mềm ứng dụng.",
+      "C.  Một tập hợp các quy tắc về việc sử dụng hợp pháp của phần mềm ứng dụng.",
+      "D.  Chuỗi các hướng dẫn được viết để thực hiện các nhiệm vụ cụ thể."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Bạn thực sự nhận được những gì khi mua một chương trình phần mềm?",
+    "img": null,
+    "options": [
+      "A.  Các quyền chia sẻ chương trình với những người dùng khác.",
+      "B.  Mã nguồn của chương trình.",
+      "C.  Quyền bán các chương trình phần mềm cho người khác.",
+      "D.  Giấy phép cho phép cài đặt và sử dụng chương trình phần mềm."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Một giấy phép theo trung tâm (site licence) là gì?",
+    "img": null,
+    "options": [
+      "A.  Giấy phép cài đặt và sử dụng chương trình phần mềm trên nhiều máy tính ở bất kỳ vị trí nào.",
+      "B.  Giấy phép cài đặt và sử dụng chương trình phần mềm trên một máy tính cụ thể ở bất kỳ vị trí nào.",
+      "C.  Giấy phép cài đặt và sử dụng chương trình phần mềm trên một máy tính cụ thể ở một địa điểm.",
+      "D.  Giấy phép cài đặt và sử dụng chương trình phần mềm trên nhiều máy tính tại một địa điểm."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Một chương trình phần mềm có chức năng giới hạn, cho phép sử dụng trong một khoảng thời gian, nếu muốn sử dụng tiếp và đầy đủ chức năng bạn cần phải trả một khoản phí, đây là phần mềm gì?",
+    "img": null,
+    "options": [
+      "A.  Shareware.",
+      "B.  Phần mềm mã nguồn mở.",
+      "C.  Phần mềm đi kèm.",
+      "D.  Phần mềm miễn phí."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Phần mềm công cộng (public domain software) là gì?",
+    "img": null,
+    "options": [
+      "A.  Phần mềm đi kèm cài đặt sẵn trên máy tính mới.",
+      "B.  Phần mềm tạo ra cho trẻ em sử dụng trong môi trường học thuật.",
+      "C.  Phần mềm không có bản quyền và có thể được sử dụng bỡi bất cứ ai mà không hạn chế.",
+      "D.  Phần mềm mà bạn có thể truy cập và thay đổi mã nguồn."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Trước khi cài đặt, một chương trình phần mềm thường yêu cầu điều gì ở hệ điều hành để có thể đảm bảo hoạt động?",
+    "img": null,
+    "options": [
+      "A.  Tốc độ xử lý và dung lượng RAM.",
+      "B.  Nhã hiệu và độ nhạy của chuột.",
+      "C.  Thương hiệu loa máy tính.",
+      "D.  Loại máy in và số lượng trang in mỗi phút."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Phần mềm nào phải được cài đặt trước những phần mềm khác?",
+    "img": null,
+    "options": [
+      "A.  Trình duyệt web.",
+      "B.  Phần mềm duyệt E-mail trên máy khách.",
+      "C.  Hệ điều hành.",
+      "D.  Chương trình xử lý văn bản."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Bạn đang có kế hoạch tạo ra một số chữ cái, tài liệu quảng cáo và các báo cáo ngắn, bạn sẽ dung chương trình ứng dụng nào để tạo ra chúng?",
+    "img": null,
+    "options": [
+      "A.  Hệ thống quản lý cơ sở dữ liệu.",
+      "B.  Thiết kế đồ họa.",
+      "C.  Bảng tính.",
+      "D.  Xử lý văn bản."
     ],
     "answer": ["D"]
   }
