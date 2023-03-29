@@ -72,14 +72,14 @@ export default function QuizPage() {
       </Stack>
       <Stack sx={{ p: { xs: 1, sm: 2, md: 4 } }}>
         <Typography
-          variant="h1"
           fontSize={"1.3rem"}
           fontWeight={"bold"}
           gutterBottom
+          variant="h1"
         >
           Câu {quizNumber}. {shuffledQuestions[quizNumber - 1].question}
         </Typography>
-        <Grid container spacing={1} sx={{ mt: 1 }}>
+        <Grid container spacing={2} sx={{ mt: 1 }}>
           {shuffledQuestions[quizNumber - 1].options.map((item, index) => (
             <Grid key={index} item xs={12} sm={6}>
               <QuizOption

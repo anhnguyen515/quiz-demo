@@ -66,8 +66,8 @@ export default function QuizAnswerModal({
           <Typography
             component="h2"
             id="modal-title"
-            level="h4"
             textColor="inherit"
+            fontSize={"1.5rem"}
             fontWeight="lg"
             startDecorator={
               equalArrays(answers, question.answer) ? (
@@ -97,14 +97,15 @@ export default function QuizAnswerModal({
                 <Typography fontWeight={600} gutterBottom textAlign={"center"}>
                   Đáp án của bạn
                 </Typography>
-                <Stack>
+                <Stack gap={1}>
                   {question.options.map((item, index) => (
                     <Typography
+                      key={index}
                       color={
                         answers.includes(item.charAt(0)) ? "primary" : "neutral"
                       }
+                      fontSize={"0.9rem"}
                       fontWeight={answers.includes(item.charAt(0)) ? 600 : 400}
-                      key={index}
                     >
                       {item}
                     </Typography>
@@ -116,18 +117,19 @@ export default function QuizAnswerModal({
                 <Typography fontWeight={600} gutterBottom textAlign={"center"}>
                   Đáp án đúng
                 </Typography>
-                <Stack>
+                <Stack gap={1}>
                   {question.options.map((item, index) => (
                     <Typography
+                      key={index}
                       color={
                         question.answer.includes(item.charAt(0))
                           ? "success"
                           : "neutral"
                       }
+                      fontSize={"0.9rem"}
                       fontWeight={
                         question.answer.includes(item.charAt(0)) ? 600 : 400
                       }
-                      key={index}
                     >
                       {item}
                     </Typography>
