@@ -34,7 +34,7 @@ export default function QuizAnswerModal({
             handleIncrementScore();
           }
         }}
-        variant="outlined"
+        variant="soft"
       >
         Xác nhận
       </Button>

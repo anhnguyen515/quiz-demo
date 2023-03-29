@@ -79,7 +79,7 @@ export default function QuizPage() {
         >
           Câu {quizNumber}. {shuffledQuestions[quizNumber - 1].question}
         </Typography>
-        <Grid container spacing={2} sx={{ mt: 1 }}>
+        <Grid container spacing={1} sx={{ mt: 1 }}>
           {shuffledQuestions[quizNumber - 1].options.map((item, index) => (
             <Grid key={index} item xs={12} sm={6}>
               <QuizOption
@@ -98,7 +98,7 @@ export default function QuizPage() {
         flexWrap={"wrap"}
         gap={1}
         justifyContent={"space-between"}
-        sx={{ p: { xs: 1, sm: 2, md: 4 }, py: { xs: 1, sm: 2 } }}
+        sx={{ p: { xs: 1, sm: 2, md: 4 }, py: { xs: 1, sm: 2, md: 2 } }}
       >
         <Typography>
           Số câu đúng: {score} / {shuffledQuestions.length}
@@ -108,7 +108,7 @@ export default function QuizPage() {
             <Button
               color="danger"
               onClick={() => setAnswers([])}
-              variant="outlined"
+              variant="soft"
             >
               Bỏ chọn tất cả
             </Button>

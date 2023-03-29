@@ -15,7 +15,7 @@ export default function QuizOption({ item, answers, handleChooseAnswer }) {
   return (
     <>
       <Button
-        color={checked ? "primary" : "neutral"}
+        color={checked ? "primary" : "text"}
         fullWidth
         onClick={() => {
           setChecked((prev) => !prev);
@@ -29,7 +29,11 @@ export default function QuizOption({ item, answers, handleChooseAnswer }) {
             <CheckBoxOutlineBlankRoundedIcon />
           )
         }
-        sx={{ justifyContent: "flex-start", height: "100%" }}
+        sx={{
+          // alignItems: "flex-start",
+          justifyContent: "flex-start",
+          height: "100%",
+        }}
         variant="plain"
       >
         <Typography color="inherit" textAlign={"start"}>
