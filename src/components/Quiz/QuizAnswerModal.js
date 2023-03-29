@@ -1,7 +1,7 @@
 import CheckRoundedIcon from "@mui/icons-material/CheckRounded";
 import CloseRoundedIcon from "@mui/icons-material/CloseRounded";
 import NavigateNextRoundedIcon from "@mui/icons-material/NavigateNextRounded";
-import { Box, Divider, Stack } from "@mui/joy";
+import { Box, Stack } from "@mui/joy";
 import Button from "@mui/joy/Button";
 import Modal from "@mui/joy/Modal";
 import Sheet from "@mui/joy/Sheet";
