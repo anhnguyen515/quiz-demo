@@ -50,12 +50,15 @@ export default function ResultPage() {
               color={
                 +searchParams.get("score") >= 15
                   ? "success"
-                  : +searchParams.get("score") >= 5 &&
+                  : +searchParams.get("score") >= 10 &&
                     +searchParams.get("score") < 15
                   ? "primary"
+                  : +searchParams.get("score") >= 5 &&
+                    +searchParams.get("score") < 10
+                  ? "warning"
                   : "danger"
               }
-              fontSize={"1.4rem"}
+              fontSize={"1.5rem"}
               fontWeight={600}
             >
               {+searchParams.get("score")}
@@ -65,14 +68,19 @@ export default function ResultPage() {
             color={
               +searchParams.get("score") >= 15
                 ? "success"
-                : +searchParams.get("score") >= 5 &&
+                : +searchParams.get("score") >= 10 &&
                   +searchParams.get("score") < 15
                 ? "primary"
+                : +searchParams.get("score") >= 5 &&
+                  +searchParams.get("score") < 10
+                ? "warning"
                 : "danger"
             }
             determinate
-            value={+searchParams.get("score") * (100 / MAX_NUM_QUESTIONS)}
             size={"lg"}
+            thickness={5}
+            value={+searchParams.get("score") * (100 / MAX_NUM_QUESTIONS)}
+            variant="soft"
           />
         </Stack>
         <Typography fontSize={"1.4rem"} textAlign={"center"}>

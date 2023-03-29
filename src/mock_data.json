@@ -212,7 +212,7 @@
     "answer": ["C"]
   },
   {
-    "question": "Bạn đang có kế hoạch tạo ra một số chữ cái, tài liệu quảng cáo và các báo cáo ngắn, bạn sẽ dung chương trình ứng dụng nào để tạo ra chúng?",
+    "question": "Bạn đang có kế hoạch tạo ra một số chữ cái, tài liệu quảng cáo và các báo cáo ngắn, bạn sẽ dung chương trình ứng dụng nào để tạo rachúng?",
     "img": null,
     "options": [
       "A.  Hệ thống quản lý cơ sở dữ liệu.",
@@ -221,5 +221,1929 @@
       "D.  Xử lý văn bản."
     ],
     "answer": ["D"]
+  },
+  {
+    "question": "Chọn ba ví dụ về đa phương tiện trong số sau:",
+    "img": null,
+    "options": [
+      "A.  Bất cứ thứ gì mua từ iTunes.",
+      "B.  Bảng trượt và bút stylus.",
+      "C.  Khung hình.",
+      "D.  Movie Trailer.",
+      "E.  Tiểu thuyết Jane Austen in trên giấy mềm.",
+      "F.Trò chơi Warcraft."
+    ],
+    "answer": ["A", "D", "F"]
+  },
+  {
+    "question": "Tiện ích nào sau đây có thể bảo vệ máy tính của bạn khỏi bị tấn công?",
+    "img": null,
+    "options": [
+      "A.  Disk Compression (Nén đĩa).",
+      "B.  Antivirus software (Phần mềm diệt virus).",
+      "C.  Disk Check (Kiểm tra lỗi ổ đĩa).",
+      "D.  Disk Deframentation (Chống phân mảnh ổ đĩa)."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Phần mềm nào sau đây được coi là một “ứng dụng Web (Web app)”?",
+    "img": null,
+    "options": [
+      "A.  Phần mềm theo dõi mọi thứ bạn xem trên Internet.",
+      "B.  Phần mềm được thiết kế để có thể truy cập và sử dụng qua Internet.",
+      "C.  Phần mềm sử dụng để xem thông tin trên Internet.",
+      "D.  Phần mềm có thể phát hiện quá trình đăng nhập và mật khẩu của bạn bất cứ khi nào bạn đang ở trên Internet."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Bạn cài đặt một chương trình phần mềm mới và nó hoạt động tốt. Tuy nhiên một chương trình khác lại không hoạt động, nguyên nhân nào có thể gây ra vấn đề này?",
+    "img": null,
+    "options": [
+      "A.  Hai chương trình cùng chia sẻ một tập tin hệ thống, nhưng các phiên bản mới hơn của các tập tin hệ thống có thể không tương thích với các chương trình cũ.",
+      "B.  Các phần mềm mới không tương thích với hệ điều hành của bạn.",
+      "C.  Bạn cần một ổ cứng lớn hơn để cho phép cả hai chương trình có thể chạy cùng một lúc.",
+      "D.  Hệ thống của bạn không đáp ứng các yêu cầu hệ thống tối thiểu của phần mềm mới."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Tại sao bạn không nên chỉ xóa các tập tin chương trình khi bạn không còn muốn sử dụng một chương trình phần mềm nữa?",
+    "img": null,
+    "options": [
+      "A.  Bạn phải thực hiện chống phân mảnh trên hệ thống trước khi xóa một chương trình.",
+      "B.  Bạn phải luôn luôn nhận được sự cho phép gỡ bỏ cài đặt từ người quản trị mạng.",
+      "C.  Nếu bạn xóa các tập tin chương trình không đúng cách, các thông tin cấu hình cũ của chương trình vẫn còn lưu lại trong Registry.",
+      "D.  Các tập tin tài khoản mà bạn đã tạo bằng cách sử dụng chương trình cũngsẽ bị xóa cùng một lúc."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hai chức năng cơ bản của hệ điều hành là gì?",
+    "img": null,
+    "options": [
+      "A.  Quản lý tập tin được lưu trữ và nhận biết các loại tập tin để thực hiện một nhiệm vụ.",
+      "B.  Kiểm tra rằng bạn là người duy nhất đăng nhập vào máy tính này.",
+      "C.  Xác định số lượng đăng ký cho các hệ điều hành.",
+      "D.  Quản lý các thiết bị đầu vào, đầu ra, lưu trữ.",
+      "E.  Kiểm tra không có virus khi bạn khởi động máy tính."
+    ],
+    "answer": ["A", "D"]
+  },
+  {
+    "question": "GUI là viết tắt của từ nào sau đây?",
+    "img": null,
+    "options": [
+      "A.  Graphics User Interaction.",
+      "B.  Good User Interface.",
+      "C.  Graphical User Interface.",
+      "D.  Great User Interface."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Quá trình Sleep nghĩa là gì?",
+    "img": null,
+    "options": [
+      "A.  Là trạng thái máy tính như đã tắt, khi đó máy có thể hoạt động trở lại chỉ trong vài giây, nhanh hơn Hibernate hay quá trình khởi động máy. Ở chế độ này, máy vẫn tiêu hao năng lượng dù ở mức ít."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Quá trình ngủ đông (Hibernate) nghĩa là gì?",
+    "img": null,
+    "options": [
+      "A.  Chế độ Hibernate (ngủ đông) là quá trình máy tính tắt hoàn toàn, tuy nhiên trước khi tắt máy tính sẽ lưu các trạng thái hiện thời (các ứng dụng đang mở) lên một tập tin trên ổ cứng. Khi bật máy trở lại, máy sẽ tải lại những thông tin này vào RAM và hoạt động như trước khi ngủ đông."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hệ điều hành nào thường được dùng trong các trường Đại học hoặc các tổ chức nghiên cứu khoa học?",
+    "img": null,
+    "options": ["A.  Unix.", "B.  Mac OS.", "C.  Linux.", "D.  Windows OS."],
+    "answer": ["A"]
+  },
+  {
+    "question": "Tại sao việc tắt máy tính khi bạn đã hoàn thành công việc lại quan trọng?",
+    "img": null,
+    "options": [
+      "A.  Để ngăn chặn truy cập trái phép vào các tập tin của bạn hoặc mạng của bạn.",
+      "B.  Nó thực hiện dễ dàng hơn so với cách sử dụng lệnh khóa (Lock).",
+      "C.  Vì các sao lưu mạng có thể xảy ra trong đêm.",
+      "D.  Các mạng lưới sẽ theo dõi khi bạn đã đăng nhập vào hoặc ra(login/logout)."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Quá trình khởi động (boot) máy tính nghĩa là gì?",
+    "img": null,
+    "options": [
+      "A.  Là quá trình khi máy tính của bạn đã bị Hack hoặc bị nhiễm virus.",
+      "B.  Là việc di chuyển máy tính sang vị trí khác.",
+      "C.  Quá trình bật máy tính và nạp hệ điều hành.",
+      "D.  Đặt các đơn vị hệ thống lên trên một nền tảng ổn định."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Trên một máy tính mới và chưa thực hiện các tùy chỉnh, hành động sử dụng chuột nào bạn sẽ dùng để kích hoạt một biểu tượng đã được chọn?",
+    "img": null,
+    "options": [
+      "A.  Nhấp chuột.",
+      "B.  Nhấn phím Ctrl và nhấp chuột.",
+      "C.  Click đúp.",
+      "D.  Nhấp chuột phải."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Thanh nào sẽ hiển thị vị trí hiện tại của một tập tin hoặc thư mục?",
+    "img": null,
+    "options": [
+      "A.  Title Bar.",
+      "B.  Command Bar.",
+      "C.  Menu Bar.",
+      "D.  Address Bar."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Điều gì sẽ xãy ra khi bạn nhấp, giữ và kéo con trỏ chuột ở một góc cửa sổ?",
+    "img": null,
+    "options": [
+      "A.  Chiều cao của cửa sổ được thay đổi kích cỡ.",
+      "B.  Cửa sổ sẽ thay đổi kích thước cả hai chiều liền kề với góc.",
+      "C.  Cửa sổ thay đổi màu sắc.",
+      "D.  Chiều rộng của cửa sổ được thay đổi kích cỡ."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Tập tin ứng dụng nhằm thực hiện mục đích gì?",
+    "img": null,
+    "options": [
+      "A.  Bao gồm hướng dẫn chi tiết cho các bộ vi xử lý để thực hiện nhiệm vụ.",
+      "B.  Chứa các dữ liệu bạn đã nhập và muốn được lưu trữ.",
+      "C.  Tập tin hệ thống có chứa hướng dẫn chi tiết về các nhiệm vụ cần thực hiện.",
+      "D.  Xác định tên đăng nhập và mật khẩu trước khi bạn có thể nhập dữ liệu của mình."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Ý nghĩa của đường dẫn là gì?",
+    "img": null,
+    "options": [
+      "A.  Cho biết các tuyến đường chính xác cần phải đi qua để đến được vị trí của một tập tin.",
+      "B.  Cho biết tên đăng nhập và mật khẩu hiện đang được sử dụng.",
+      "C.  Cho bạn thấy nơi các tập tin chương trình được lưu trữ trên hệ thống.",
+      "D.  Nó thiết lập các kết nối Internet cho các thông tin đăng nhập của bạn."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hai phương pháp được sử dụng để thiết lập một hệ thống chia sẻ tập tin?",
+    "img": null,
+    "options": [
+      "A.  Tạo một cấu trúc hợp lý để bạn và những người khác chia sẻ các tập tin.",
+      "B.  Sao chép tập tin chia sẻ đến một thiết bị lưu trữ di động bên ngoài.",
+      "C.  Thực hiện theo các tiêu chuẩn công ty hoặc trường học.",
+      "D.  Chỉ lưu trữ những tập tin được cho là sẽ được chia sẻ với những người khác.",
+      "E.  Chỉ gửi tập tin qua E mail."
+    ],
+    "answer": ["A", "C"]
+  },
+  {
+    "question": "Bạn có thể nói gì về biểu tượng (icon) của một tập tin hoặc thư mục là đường tắt (shortcut)?",
+    "img": null,
+    "options": [
+      "A.  Các biểu tượng xuất hiện trong một màu sắc khác nhau bên trong một hộp đánh dấu.",
+      "B.  Các biểu tượng này xuất hiện ở bên phải màn hình Windows.",
+      "C.  Các biểu tượng này hiển thị một mũi tên ở góc dưới bên trái của biểu tượng.",
+      "D.  Những dữ liệu được lưu trong một thư mục đặc biệt được gọi là đường tắt(shortcut)."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Phím nào được dùng để đổi tên tập tin, thư mục",
+    "img": null,
+    "options": [
+      "A.  F1.",
+      "B.  F2.",
+      "C.  F3.",
+      "D.  Ctrl.",
+      "E.  Shift.",
+      "G.  Alt."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Đâu là phần mở rộng của tập tin cho biết các tập tin đó có thể là một bức ảnh?",
+    "img": null,
+    "options": [
+      "A.  .com.",
+      "B.  .swf.",
+      "C. .jpg.",
+      "D.  .m4a.",
+      "E. .gif.",
+      "F. .png."
+    ],
+    "answer": ["C", "E", "F"]
+  },
+  {
+    "question": "Phím nào cho phép bạn chọn một danh sách liên tiếp của các tập tin?",
+    "img": null,
+    "options": [
+      "A. Ctrl.",
+      "B. Shift.",
+      "C. Enter.",
+      "D. F8.",
+      "E. Ctrl+Click."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Ý nghĩa của Recycle Bin (thùng rác) là gì?",
+    "img": null,
+    "options": [
+      "A. Cho biết bạn có thể xóa một số thư mục cũ hơn.",
+      "B. Cho biết bạn có các tập tin cũ sẽ bị xóa.",
+      "C. Lưu trữ các tập tin cũ đã bị xóa hoặc thư mục được tạo ra bỡi những người chia sẻ máy tính của bạn.",
+      "D. Một khu vực lưu trữ tạm thời cho các tập tin và thư mục bị xóa."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Nếu bạn thấy thông báo lỗi rằng một tên tập tin không thể sử dụng được, điều này có nghĩa là gì?",
+    "img": null,
+    "options": [
+      "A. Bạn đang cố gắng truy cập vào một tập tin nhưng chương trình cần thiết để mở nó chưa được cài đặt trên máy tính của bạn.",
+      "B. Bạn đang cố gắng để khôi phục lại một tập tin mà không được xóa bỡi bạn.",
+      "C. Bạn đang xóa một tập tin.",
+      "D. Bạn đang đổi tên một tập tin mà không nhập phần mở rộng (loại) tập tin."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Nếu bạn thấy một thông báo nói rằng bạn không thể xem một thư mục trên mạng, điều này có nghĩa là gì?",
+    "img": null,
+    "options": [
+      "A. Bạn chưa chọn đúng thư mục trong chương trình quản lý tập tin.",
+      "B. Bạn không có đủ quyền để xem hoặc truy cập vào các nội dung của thư mục này.",
+      "C. Máy tính của bạn không nhận ra máy in được cài đặt.",
+      "D. Bạn chưa đăng nhập vào hệ thống mạng."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Tính năng nào của Control Panel dung để thay đổi chủ đề (theme) trên màn hình Windows desktop?",
+    "img": null,
+    "options": [
+      "A. User Accounts.",
+      "B. Display.",
+      "C. Default Programs.",
+      "D. Personalization."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Bạn làm cách nào để hiển thị ngày tháng hiện tại (nhưng không bao gồm thời gian) trong một màn hình gợi ý (screen tip)?",
+    "img": null,
+    "options": [
+      "A. Trỏ chuột vào ô thời gian tại vùng thông báo.",
+      "B. Khởi chạy một chương trình lịch và thu nhỏ nó xuống thanh Taskbar.",
+      "C. Bấm vào một ngày trong khu vực thông báo.",
+      "D. Double click vào thời gian trong khu vực thông báo."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Tại sao bạn muôn cài đặt một ngôn ngữ khác trên máy tính?",
+    "img": null,
+    "options": [
+      "A. Để thay đổi việc hiển thị dữ liệu hoặc cách nhập liệu (input).",
+      "B. Để tự động chuyển đổi email định sang ngôn ngữ của bạn khi bạn mở chúng.",
+      "C. Để cho phép quét (scan) hoặc fax từ các nước khác để được dích tự động.",
+      "D. Để dịch một tài liệu tự động từ một ngôn ngữ khác."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Chế độ sleep làm việc như thế nào khi được kích hoạt trên một máy tính xách tay?",
+    "img": null,
+    "options": [
+      "A. Kích hoạt các tùy chọn Screen Saver.",
+      "B. Tắt máy tính hoàn toàn.",
+      "C. Giữ công việc của bạn ở thời điểm hiện tại ngay cả khi tắt máy tính xách tay.",
+      "D. Giữ công việc của bạn ở thời điểm hiện tại và đặt máy tính vào chế độ tiêu thụ ít năng lượng."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Khi nào thì bạn nên sử dụng chế độ Hibernation trên một máy tính xách tay?",
+    "img": null,
+    "options": [
+      "A. Khi bạn muôn tắt máy tính hoàn toàn.",
+      "B. Khi bạn cần phải đóng (màn hình) máy tính và di chuyển máy tính đến một địa điểm khác.",
+      "C. Khi bạn muốn ngăn chặn một người nào đó vô tình đăng nhập với tài khoản của bạn.",
+      "D. Khi bạn muốn có một chế độ tiế kiệm năng lượng thay thế nhanh hơn so với chế độ Sleep."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Bạn có thể tùy chỉnh những gì đối với bộ nguồn (máy tính xách tay)?",
+    "img": null,
+    "options": [
+      "A. Xác định xem bạn đang sử dụng pin hay cắm bộ sạc.",
+      "B. Thay đổi các chức năng chế độ Sleep.",
+      "C. Tùy chỉnh bao nhiêu năng lượng được sử dụng cho các nhiệm vụ cụ thể.",
+      "D. Xác định những người có quyền truy cập vào tài khoản của bạn."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Ai sẽ quyết định quyền truy cập hợp pháp cho các chương trình và các tập tin bạn cần có trên một máy tính kết nối với mạng trong công ty?",
+    "img": null,
+    "options": [
+      "A. Người quản lý mạng.",
+      "B. Giám đốc hoặc giám sát viên.",
+      "C. Đồng nghiệp.",
+      "D. Người làm công việc trước bạn."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Loại tài khoản nào bị hạn chế quyền cài đặt các chương trình trên máy cục bộ hoặc một ổ đĩa mạng?",
+    "img": null,
+    "options": [
+      "A. Standard User.",
+      "B. Administrator.",
+      "C. Administrative.",
+      "D. Limited User."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Chính sách nhóm thường được áp dụng cho?",
+    "img": null,
+    "options": [
+      "A. Các nhóm người dùng hoặc nhóm máy tính.",
+      "B. Hệ thống máy tính để bàn cá nhân.",
+      "C. Hệ thống mạng cá nhân.",
+      "D. Tài khoản người dùng các nhân."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hai nhiệm vụ bạn cần thực hiện để giữ cho máy tính của bạn an toàn?",
+    "img": null,
+    "options": [
+      "A. Luôn luôn có một người quản trị mạng trong nhà.",
+      "B. Luôn nâng cấp lên các ứng dụng mới nhất và tốt nhất hoặc nâng cấp hệ điều hành.",
+      "C. Lên lịch bảo trì đĩa thường xuyên.",
+      "D. Luôn nâng cấp cho các thiết bị phần cứng tốt nhất và gần đây nhất.",
+      "E. Bảo đảm ứng dụng và hệ điều hành cập nhật được cài đặt theo yêu cầu."
+    ],
+    "answer": ["C", "E"]
+  },
+  {
+    "question": "Bạn cần làm gì trước khi gọi cho hỗ trợ kỹ thuật nếu bạn thấy máy in không có điện?",
+    "img": null,
+    "options": [
+      "A. Đảm bảo rằng có giấy trong khay máy in.",
+      "B. Đảm bảo rằng tất cả dây điện được cắm một cách an toàn.",
+      "C. Đảm bảo rằng máy in đã không bị di chuyển.",
+      "D. Đảm bảo rằng bạn có quyền truy cập vào máy in."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Firmware là gì?",
+    "img": null,
+    "options": [
+      "A. Một mã số nhận dạng mà nhà cung cấp sản phẩm gắn vào linh kiện phần cứng.",
+      "B. Được lập trình và được nhúng vào trong một thiết bị phần cứng.",
+      "C. Một bảo hành được cung cấp với một thiết bị phần cứng.",
+      "D. Một tên gọi khác cho phần cứng đặc biệt nhỏ như một linh kiện."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Một trình điều khiển thiết bị là gì?",
+    "img": null,
+    "options": [
+      "A. Một hệ thống tập tin mà đi kèm với hệ điều hành.",
+      "B. Một con chip trong các đơn vị hệ thống giúp nhận diện phần cứng được kết nối.",
+      "C. Phần mềm cho phép một máy tính giao tiếp và điều khiển các thiết bị kết nối.",
+      "D. Một con chip trong một thiết bị kết nối với máy tính để xác định máy tính mà nó kết nối tới."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Xác định hai lý do tại sao một bản cài đặt cập nhật dừng lại ở 48%, sau đó máy tính không hồi đáp?",
+    "img": null,
+    "options": [
+      "A. Bạn đã bị mất một kết nối đến Internet mà đó là điều kiện cần thiết để tiếp tục cập nhật.",
+      "B. Có thể không có đủ không gian đĩa trên ổ đĩa để hoàn thành cài đặt các bản cập nhật.",
+      "C. Bạn không có quyền truy cập để cài đặt hoặc cập nhật phần mềm.",
+      "D. Không có không gian còn lại trên ổ đĩa mạng để tiếp tục cập nhật.",
+      "E. Các bản cập nhật phát hiện bạn không có một bản sao đầy đủ của phần mềm cài đặt."
+    ],
+    "answer": ["A", "B"]
+  },
+  {
+    "question": "Loại hình backup dữ liệu nào chỉ sao lưu những file bạn đã thay đổi kể từ thời điểm hệ thống thực hiện một sao lưu đầy đủ?",
+    "img": null,
+    "options": [
+      "A. Incremental.",
+      "B. Differential.",
+      "C. Full Backup.",
+      "D. Partition Backup."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Bạn nên làm gì khi nhận được thông báo về một bản cập nhật phần mềm?",
+    "img": null,
+    "options": [
+      "A. Không bao giờ chạy bản cập nhật.",
+      "B. Hãy để các quản trị mạng biết để họ có thể tự động áp dụng các bản cập nhật.",
+      "C. Chạy nâng cấp ngay lập tức mà không quan tâm đến các vấn đề đi kèm.",
+      "D. Tìm hiểu về mục đích của bản cập nhật, quyết định việc cập nhật ngay bây giờ hoặc sau này."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Ba lỗi có thể xảy ra khi nâng cấp hệ điều hành?",
+    "img": null,
+    "options": [
+      "A. Bạn có thể gặp xung đột với các ứng dụng khác.",
+      "B. Bạn có thể yêu cầu quyền quản trị để đăng nhập sau khi nâng cấp.",
+      "C. Bạn có thể sơ ý cài đặt một ấn bản lỗi.",
+      "D. Bạn có thể mua các nâng cấp phần cứng trước khi cài đặt bản nâng cấp phần mềm.",
+      "E. Bạn có thể quên kích hoạt bản nâng cấp của hệ điều hành."
+    ],
+    "answer": ["A", "C", "E"]
+  },
+  {
+    "question": "Điều gì nên làm sau khi cài đặt một bản cập nhật?",
+    "img": null,
+    "options": [
+      "A. Thông báo cho người quản trị mạng rằng bạn đã cài đặt bản cập nhật.",
+      "B. Tắt máy tính cho đến khi người quản trị mạng có thể kiểm tra hệ thống.",
+      "C. Thực hiện quét toàn bộ hệ thống để kiểm tra bất kỳ loại virus sau khi cài đặt.",
+      "D. Khởi động lại máy để đảm bảo rằng thông tin đăng nhập của bạn vẫn hoạt động."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Ba đặc điểm có thể cho biết hệ thống của bạn có thể bị nhiễm virus?",
+    "img": null,
+    "options": [
+      "A. Các máy tính dường như chạy chậm hơn bình thường.",
+      "B. Tin nhắn bắt đầu xuất hiện một cách ngẫu nhiên trên màn hình của bạn.",
+      "C. Bạn sẽ được nhắc để thay đổi mật khẩu của bạn khi bạn cố gắng để đăng nhập vào lần sau.",
+      "D. Thông báo lỗi về việc thiếu các tập tin hệ thống xuất hiện.",
+      "E. Bây giờ bạn có toàn quyền cài đặt các chương trình trên hệ thống."
+    ],
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "question": "Nếu máy tính không khởi động như bình thường, bạn nên làm gì để thử và xác định nguyên nhân của vấn đề?",
+    "img": null,
+    "options": [
+      "A. Chạy phần mềm chống virus của bạn.",
+      "B. Cài đặt một bản sao lưu của hệ điều hành.",
+      "C. Chạy Check Disk.",
+      "D. Cố gắng khởi động vào chế độ Safe Mode."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Ba điều bạn có thể làm để tìm kiếm nguồn trợ giúp kỹ thuật có chất lượng hỗ trợ cho hệ thống Windows của bạn?",
+    "img": null,
+    "options": [
+      "A. Gọi điện tới một tạp chí về CNTT để được tư vấn.",
+      "B. Tìm các kiến thức cơ sở của Windows (Windows Knowledge Base).",
+      "C. Tìm kiếm trên Internet tại các nhóm hoặc các diễn đàn chuyên về Windows.",
+      "D. Đưa hệ thống cho bạn bè cũa bạn để được tư vấn.",
+      "E. Liên hệ trực tiếp với Microsoft."
+    ],
+    "answer": ["B", "C", "E"]
+  },
+  {
+    "question": "Cách khởi động Microsoft Excel?",
+    "img": null,
+    "options": [
+      "A. Click Start, All Programs, Microsoft Excel 2010.",
+      "B. Click Start, All Programs, Microsoft Office, Microsoft Excel 2010.",
+      "C. Click Start, Programs, Microsoft Excel 2010.",
+      "D. Click Start, Microsoft Office, Microsoft Excel 2010."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Ba nút mặc định trên Quick Access Toolbar trước khi bạn tùy biến là?",
+    "img": null,
+    "options": [
+      "A. Open.",
+      "B. Print.",
+      "C. Undo.",
+      "D. Redo.",
+      "E. Save.",
+      "F. New."
+    ],
+    "answer": ["C", "D", "E"]
+  },
+  {
+    "question": "Tên của các tính năng mà bạn có thể sử dụng để quản lý các tập tin trong bộ Office?",
+    "img": null,
+    "options": [
+      "A. File Options view.",
+      "B. Backstage view.",
+      "C. Office File Manager.",
+      "D. Windows Explorer."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Điều gì xảy ra khi bạn nhấn Ctrl+N trong một chương trình Office?",
+    "img": null,
+    "options": [
+      "A. Xuất hiện màn hình tạo một file mới.",
+      "B. Một tập tin mới để trống được tạo.",
+      "C. Một phiên làm việc mới của chương trình được bắt đầu.",
+      "D. Màn hình lưu trữ một tài liệu mới xuất hiện."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Điều gì xảy ra khi bạn nhấn Ctrl+C trong một chương trình ứng dụng?",
+    "img": null,
+    "options": [
+      "A. Các mục được chọn được loại bỏ tại vị trí hiện tại của chúng.",
+      "B. Các mục được chọn được hiển thị màu với màu sắc được lựa chọn cuối cùng trong bảng màu.",
+      "C. Các mục được chọn được căn giữa so với các lề.",
+      "D. Các mục được chọn được sao chép vào Clipboard Office."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Chọn ba cách có thể sử dụng để chia sẻ các tập tin cho những người khác có thể truy cập một cách nhanh chóng và dễ dàng?",
+    "img": null,
+    "options": [
+      "A. Lưu các tập tin trên ổ đĩa cục bộ của bạn chỉ dành cho mục đích an ninh.",
+      "B. Lưu trữ các tập tin trên một ổ đĩa di động.",
+      "C. Lưu các tập tin đến một vị trí được chia sẻ như một mạng lưới tổ chức.",
+      "D. Lưu các tập tin vào một điểm đến web như SkyDrive hay iCloud.",
+      "E. Gửi các tập tin đính kèm email."
+    ],
+    "answer": ["C", "D", "E"]
+  },
+  {
+    "question": "Khi nào thì bạn nên bấm phím Enter để nhập văn bản?",
+    "img": null,
+    "options": [
+      "A. Khi bạn đến cuối của một đoạn văn hoặc khi bạn muốn chèn một dòng trống.",
+      "B. Khi bạn đến cuối của dòng đầu tiên để bắt đầu viết từ cho mỗi dòng sau.",
+      "C. Khi lần đầu tiên bạn mở tài liệu để di chuyển con trỏ văn bản ra khỏi khu vực tiêu đề.",
+      "D. Khi bạn đến cuối của mỗi dòng ở lề phải."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Phím nào bạn dùng để chọn các đoạn văn bản không liền kề nhau",
+    "img": null,
+    "options": ["A. Alt.", "B. Ctrl.", "C. Fn.", "D. Shift."],
+    "answer": ["B"]
+  },
+  {
+    "question": "Chế độ hiển thị nào bạn nên áp dụng cho các văn bản mà bạn nhận được từ bên ngoài thông qua email?",
+    "img": null,
+    "options": [
+      "A. Web Layout view.",
+      "B. Full Screen Reading view.",
+      "C. Read Only view .",
+      "D. Protected view."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Tại sao bạn muốn tùy chỉnh một phong cách trình bày dấu hoa thị (bullet style) cho một danh sách",
+    "img": null,
+    "options": [
+      "A. Để thụt lề trái cho danh sách.",
+      "B. Để thay đổi phong cách danh sách từ dấu hoa thị thành đánh số.",
+      "C. Để tạo ra một hình thức trình bày khác cho tài liệu .",
+      "D. Để thay đổi phong cách danh sách từ đánh số sang dấu hoa thị."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Bạn có thể nói gì về một đối tượng đã được lựa chọn trong tài liệu?",
+    "img": null,
+    "options": [
+      "A. Các đối tượng được đánh dấu nổi bật như khi chọn văn bản thông thường.",
+      "B. Các đối tượng xuất hiện trong cửa sổ riêng của nó để chỉnh sửa.",
+      "C. Tám ô vuông nhỏ xuất hiện xung quanh đối tượng.",
+      "D. Các đối tượng thay đổi sang màu đen và màu trắng nếu có màu."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Phân biệt trang tính (Sheet) và một sổ tính (WorkBook)?",
+    "img": null,
+    "options": [
+      "A. Sổ tính là thuật ngữ được sử dụng khi bạn dùng nhiều hơn một trang tính trong một file.",
+      "B. Sổ tính có thể được chia sẻ tự động bỡi những người khác.",
+      "C. Sổ tính là toàn bộ tập tin có chứa các trang tính.",
+      "D. Trang tính có thể được sử dụng trong các chương trình bảng tính khác."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Tùy chọn nào dùng để thiết lập mặc định cách ngày tháng được hiển thị trong Excel?",
+    "img": null,
+    "options": [
+      "A. Định dạng ngày mặc định trong Format Cells.",
+      "B. Mục Advanced trong Excel Options.",
+      "C. Cài đặt mặc định thông qua việc cài đặt Office.",
+      "D. Region and Language trong Control Panel."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Tại sao bạn đổi tên một trang tính (Sheet)?",
+    "img": null,
+    "options": [
+      "A. Để trợ giúp cho việc xác định các nội dung.",
+      "B. Để giúp xác định trang tính này như một sổ tính 2010.",
+      "C. Để có thể thêm một màu sắc cho bảng tính tiếp sau nó.",
+      "D. Để cho phù hợp với tên của sổ tính."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Tại sao bạn tick vào ô “My data has headers” trong hộp thoại sắp xếp?",
+    "img": null,
+    "options": [
+      "A. Để giúp cho Excel hiểu rằng dữ liệu của bạn có tiêu đề cột và dựa vào đó để xác định dữ liệu.",
+      "B. Để loại bỏ các dòng tiêu đề khỏi danh sách được sắp xếp sau đó.",
+      "C. Để chèn một ngắt trang trước các tiêu đề cột.",
+      "D. Để xác định số thứ tự của các hàng nơi mà các tiêu đề cột được nhập."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Tại sao biểu đồ đem lại nhiều cách mô tả dữ liệu hơn so với một bảng?",
+    "img": null,
+    "options": [
+      "A. Nhiều dữ liệu có thể xuất hiện trên biểu đồ so với bảng.",
+      "B. Một biểu đồ có nhiều màu sắc hơn.",
+      "C. Biểu đồ có thể được in trên một tờ giấy lớn hơn so với một bảng.",
+      "D. Một biểu đồ minh họa xu hướng hay dáng điệu dữ liệu rõ ràng hơn."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Loại biểu đồ nào nên được dùng để so sánh dữ liệu có xu hướng liên tục?",
+    "img": null,
+    "options": ["A. Line.", "B. Pie.", "C. Column.", "D. Bar."],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hiệu ứng chuyển trang slide là?",
+    "img": null,
+    "options": [
+      "A. Animations.",
+      "B. Transittion.",
+      "C. Trigger.",
+      "D. Switch slide.",
+      "E. Switch page."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Tại sao bạn muốn người khác xem lại bản thuyết trình của bạn trước khi trình diễn nó?",
+    "img": null,
+    "options": [
+      "A. Để làm cho chắc chắn rằng file có thể chia sẻ.",
+      "B. Để đảm bảo bạn có nội dung tốt nhất, các yếu tố thiết kế và thời gian phù hợp với khán giả.",
+      "C. Để có một bên thứ ba vô tư thêm ghi chú cho các slide.",
+      "D. Để xác định định dạng nào của tập tin là tốt nhất cho việc phân phối các bài thuyết trình."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Bốn cách bạn có thể giúp cho bản thuyết trình dễ đọc và giữ cho khán giả tập trung vào trình bày?",
+    "img": null,
+    "options": [
+      "A. Hạn chế số lượng màu sắc được sử dụng.",
+      "B. Sử dụng định dạng nhất quán trên các slide.",
+      "C. Thêm rất nhiều hiệu ứng đặc biệt trên các slide.",
+      "D. Sử dụng nhiều hình ảnh động hoặc chuyển trên slide.",
+      "E. Chỉ sử dụng hình ảnh hay bảng khi có liên quan hoặc để nhấn mạnh.",
+      "F. Giới hạn số điểm cho mỗi slide đến 6."
+    ],
+    "answer": ["A", "B", "E", "F"]
+  },
+  {
+    "question": "Chọn 4 loại hiệu ứng cho đối tượng có trong Animation?",
+    "img": null,
+    "options": [
+      "A. Entrance.",
+      "B. Slow.",
+      "C. Fast.",
+      "D. Motion Paths.",
+      "E. Emphasis.",
+      "F. Exit."
+    ],
+    "answer": ["A", "D", "E", "F"]
+  },
+  {
+    "question": "Tại sao bạn nên chọn một chủ đề (theme) đã được tích hợp trong phần mềm để áp dụng cho bản trình chiếu?",
+    "img": null,
+    "options": [
+      "A. Để sử dụng một bài thuyết trình đã được tạo trước với các tiêu chuẩn cho một chủ đề ví dụ như tiếp thị.",
+      "B. Để đạt được một thể thống nhất cho các phông chữ và màu sắc.",
+      "C. Để thêm một chương trình âm thanh cho bản trình chiếu.",
+      "D. Để cho phù hợp với màu sắc của tiêu chuẩn trong công ty của bạn."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Khi nào bạn dùng Quick Styles để áp dụng định dạng?",
+    "img": null,
+    "options": [
+      "A. Khi bạn muốn định dạng chi tiết các loại văn bản như tiêu đề, nhan đề,….",
+      "B. Khi bạn cần phải xác định các thanh dữ liệu được trình bày trong một biểu đồ.",
+      "C. Khi các chủ đề (theme) không có sẵn để sử dụng.",
+      "D. Khi bản trình chiếu chỉ bao gồm các văn bản đơn thuần."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Cách nhanh nhất để chèn một bảng vào một slide mới là gì?",
+    "img": null,
+    "options": [
+      "A. Sử dụng lệnh Insert/Object để chèn một bảng tính Excel.",
+      "B. Tạo một slide mới có bố cục là “Tittle and Content” rồi nhấn “Insert Table” trong “Content placeholder”.",
+      "C. Tạo một hộp văn bản (Text box) sau đó chèn một bảng vào nó.",
+      "D. Tạo một slide mới có bố cục là “Tittle and Content” sau đó vẽ bảng."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Cách nhanh nhất để chèn một bảng vào một slide mới là gì?",
+    "img": null,
+    "options": [
+      "A. Sử dụng lệnh Insert/Object để chèn một bảng tính Excel.",
+      "B. Tạo một slide mới có bố cục là “Tittle and Content” rồi nhấn “Insert Table” trong “Content placeholder”.",
+      "C. Tạo một hộp văn bản (Text box) sau đó chèn một bảng vào nó.",
+      "D. Tạo một slide mới có bố cục là “Tittle and Content” sau đó vẽ bảng."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Một “PowerPoint Datasheet” là gì?",
+    "img": null,
+    "options": [
+      "A. Một slide có chứa các dữ liệu sẽ được sử dụng để tạo ra một đối tượng biểu đồ.",
+      "B. Một slide tóm tắt có chứa dữ liệu cho biểu đồ.",
+      "C. Một đối tượng tương tự như một bảng tính Excel có chứa các hàng và cột và dữ liệu.",
+      "D. Một tập tin dữ liệu Excel bạn phải nhập khẩu để tạo ra một biểu đồ."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Khi bạn thực hiện một truy vấn, bạn thấy một kết quả trong đó tên của một giáo viên bị viết sai chính tả, bạn thực hiện sửa lỗi chính tả cho tên giáo viên trong dạng hiển thị Datasheet của truy vấn đó. Điều nào sau đây là đúng?",
+    "img": null,
+    "options": [
+      "A. Thông tin về giáo viên đó sẽ thay đổi trong bảng dữ liệu ban đầu và tất cả các kết quả truy vấn về sau.",
+      "B. Tên của giáo viên đó chỉ thay đổi trong truy vấn này, không thay đổi trong bảng dữ liệu ban đầu và các truy vấn về sau.",
+      "C. Tên của giáo viên đó không thay đổi trong bảng dữ liệu ban đầu nhưng thay đổi trong truy vấn này và các truy vấn về sau.",
+      "D. Tên của giáo viên đó thay đổi trong truy vấn này và bảng dữ liệu ban đầu, không thay đổi trong truy vấn về sau."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Đối tượng nào dùng để thực hiện hành động nhập bản ghi mới, xóa bản ghi, sửa bản ghi?",
+    "img": null,
+    "options": ["A. Report.", "B. Record.", "C. Form.", "D. Query."],
+    "answer": ["C"]
+  },
+  {
+    "question": "Đâu là 3 đối tượng trong cơ sở dữ liệu?",
+    "img": null,
+    "options": [
+      "A. SQL.",
+      "B. Navigation pane.",
+      "C. Table.",
+      "D. Run command.",
+      "E. Report.",
+      "F. Query."
+    ],
+    "answer": ["C", "E", "F"]
+  },
+  {
+    "question": "Sự khác biệt cơ bản giữa một biểu mẫu (Form) và báo cáo (Report) là gì?",
+    "img": null,
+    "options": [
+      "A. Các biểu mẫu có thể được tạo ra bỡi người sử dụng trong khi báo cáo được thiết đặt trước bỡi Microsoft.",
+      "B. Các biểu mẫu nhận dữ liệu đầu vào trong khi báo cáo xuất dữ liệu.",
+      "C. Báo cáo nhận dữ liệu đầu vào trong khi biểu mẫu xuất dữ liệu.",
+      "D. Các biểu mẫu có thể được tùy chỉnh với màu sắc trong khi các báo cáo thì không."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Cái gì được coi là một loại thông tin?",
+    "img": null,
+    "options": ["A. Table.", "B. Field.", "C. Database.", "D. Record."],
+    "answer": ["B"]
+  },
+  {
+    "question": "Ý nghĩa của mục “Look in” trong hộp thoại “Tìm kiếm và Thay thế” là gì?",
+    "img": null,
+    "options": [
+      "A. Cho Access biết bảng để tìm kiếm.",
+      "B. Cho Access biết tìm kiếm trong trường hiện tại hay tất cả các trường trong bảng.",
+      "C. Cho Access biết cơ sở dữ liệu để tìm kiếm.",
+      "D. Cho Access hướng tìm kiếm."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Một tập hợp các điều kiện mà một bộ lọc dùng để xác định các bản ghi để hiển thi gọi là?",
+    "img": null,
+    "options": ["A. Dynaset.", "B. Criteria.", "C. Query.", "D. Datasheet."],
+    "answer": ["B"]
+  },
+  {
+    "question": "Một truy vấn thêm hoặc xóa dữ liệu được gọi là?",
+    "img": null,
+    "options": [
+      "A. Truy vấn hành động (Action query).",
+      "B. Dynaset.",
+      "C. Truy vấn chọn (Select query).",
+      "D. Điều kiện (Criteria)."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Tập hợp các bản ghi từ một truy vấn được gọi là?",
+    "img": null,
+    "options": [
+      "A. Dynaset.",
+      "B. Select query.",
+      "C. Criteria.",
+      "D. Action query."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Các công cụ tìm kiếm tạo ra bảng xếp hạng kết quả tìm kiếm như thế nào?",
+    "img": null,
+    "options": [
+      "A. Theo nội dung và mức độ thường xuyên của các liên kết đến với website.",
+      "B. Bằng số lần truy cập vào trang web của bạn hàng tháng.",
+      "C. Bằng số lượng và loại của các từ khóa được gửi đến công ty sở hữu công cụ tìm kiếm.",
+      "D. Bằng tần suất mà bạn thực hiện các thay đổi trên trang web của bạn."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hai lý do bạn sử dụng các tùy chọn tìm kiếm nâng cao khi tìm kiếm thông tin?",
+    "img": null,
+    "options": [
+      "A. Để xóa lịch sử cho các tìm kiếm trong quá khứ.",
+      "B. Để tìm kiếm một cụm từ chính xác.",
+      "C. Để thay đổi kích thước của màn hình giúp bạn có thể xem được nhiều kết quả hơn.",
+      "D. Để giới hạn kích thước hoặc loại của tập tin.",
+      "E. Để thay đổi trang chủ cho trình duyệt web."
+    ],
+    "answer": ["B", "D"]
+  },
+  {
+    "question": "Nếu bạn muốn tìm thông tin về những tập tin dll chỉ trong trang web của Microsoft, tiêu chí tìm kiếm bạn sẽ sử dụng là?",
+    "img": null,
+    "options": [
+      "A. dll file site: microsoft.com.",
+      "B. dll file link: microsoft.",
+      "C. dll file host: microsoft.",
+      "D. dll file AND microsoft."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Kết quả tím kiếm bạn sẽ thấy là gì nếu bạn gõ tiêu chí tìm kiếm như sau: paradise image:hawaii?",
+    "img": null,
+    "options": [
+      "A. Các trang web du lịch có chứa nhiều mục khác nhau về paradise (thiên đường) ở Hawaii.",
+      "B. Các trang web với hình ảnh về paradise ở Hawaii.",
+      "C. Chỉ các tập tin hình ảnh về paradise ở Hawaii.",
+      "D. Trang web Hawaii có chứa hình ảnh về paradise."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Những yếu tố bạn có thể dùng để đánh giá độ tin cậy hay xác đáng của một trang web?",
+    "img": null,
+    "options": [
+      "A. Nếu trang web đã thiết lập bảo mật cho việc mua hàng trực tuyến.",
+      "B. Danh sách các nhà cung cấp đã trả tiền để quảng cáo trên trang web này.",
+      "C. Các trang web hiển thị thông tin của người quản trị trang web đã tạo ra trang web này.",
+      "D. Liệu rằng nội dung có phải là hiện thời và liệu có những sai sót so với thực tế hay không."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Bạn xem một trang web có thảo luận về theo dõi thời tiết để giúp phát triển các loại cây trồng trong điều kiện canh tác truyền thống kém. Bạn nên làm gì để xác nhận và xác thực thông tin này?",
+    "img": null,
+    "options": [
+      "A. Xem danh sách liên hệ của người nổi tiếng, từ đó bạn liên hệ để hỏi thông tin về trang web này.",
+      "B. Kiểm tra xem một người nổi tiếng có ủng hộ trang web với hình ảnh có chữ ký để mua hàng.",
+      "C. Kiểm tra xem trang web có liên kết tới Linkedln hay Facebook không.",
+      "D. Kiểm tra trình độ của các tác giả và nhà xuất bản của các tổ chức này."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Tại sao bạn nên thận trọng khi sử dụng một blog để xác nhận thông tin trên một trang web cụ thể?",
+    "img": null,
+    "options": [
+      "A. Các blog được mở cho đăng chỉ trong một khoảng thời gian cụ thể nào đó.",
+      "B. Những người đăng bài trên blog không cần phải có trình độ để đóng góp ý kiến.",
+      "C. Các blog có thể có quá nhiều mục để xem qua từng bài viết.",
+      "D. Các blog là có sẵn cho tất cả mọi người để gửi bài thay vì chỉ cho phép thành viên đăng bài."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Bạn khám phá thấy một trang web cung cấp thông tin kỹ thuật về cách sửa chữa máy tính bảng. Tuy nhiên, không có trình bày chi tiết về máy tính bảng mà thông tin được áp dụng, cũng không có bất kỳ thông tin về kết quả sửa chữa. Hai lựa chọn bạn có thể dùng để xác nhận thông tin trên trang web này là gì?",
+    "img": null,
+    "options": [
+      "A. Có lời chứng thực trên trang web từ những người nổi tiếng.",
+      "B. Tài liệu tham khảo ở trang web này với các nguồn kỹ thuật khác về sửa chữa máy tính bảng.",
+      "C. Các loại quảng cáo xuất hiện trên trang web này.",
+      "D. Liệu các URL có phải là tiếp thị liên kết với một tổ chức được xác nhận có uy tín hay không."
+    ],
+    "answer": ["B", "D"]
+  },
+  {
+    "question": "Một chỉ dẫn tốt cho biết rằng nội dung website về một kênh tin tức mới được xây dựng có khách quan và không thiên vị hay không, là gì?",
+    "img": null,
+    "options": [
+      "A. Có danh sách nguồn tài liệu mà bạn có thể dùng để kiểm tra các sự việc nêu trên trang web.",
+      "B. Các nội dung trên trang web đã được viết bỡi một người phát ngôn nổi tiếng.",
+      "C. Có rất nhiều quảng cáo bổ sung từ các tổ chức cung cấp kênh thông tin.",
+      "D. Tất cả các phản hồi tích cực xuất hiện cùng với các sự kiện trên một trang."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Một cầu thủ trong đội bóng của bạn lên trang web và viết những lời gay gắt về quan điểm chính trị của huấn luyện viên của đội bóng. Hành động này là gì?",
+    "img": null,
+    "options": [
+      "A. Phỉ báng.",
+      "B. Vu khống.",
+      "C. Bắt nạt trên mạng.",
+      "D. Ghen tức."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Một vài người bạn trong lớp tạo ra một tài khoản giả mạo của Jane và liên tục post hình ảnh cũng như các nội dung sai sự thật, hành động này gọi là gì?",
+    "img": null,
+    "options": [
+      "A. Bắt nạt trên mạng.",
+      "B. Ghen tức.",
+      "C. Phỉ báng.",
+      "D. Vu khống.",
+      "E. Đạo văn."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Nên đặt tay như thế nào để tránh nguy cơ chấn thương?",
+    "img": null,
+    "options": [
+      "A. Đặt tay nghiêng 45 độ.",
+      "B. Chọn bàn làm việc có độ cao cố định.",
+      "C. Màn hình máy tính cảm ứng.",
+      "D. Màn hình máy tính có kích thước 18” đến 28”."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Các công trình làm việc tạo ra sản phẩm gốc hoặc phát minh được coi là gì?",
+    "img": null,
+    "options": [
+      "A. Sở hữu trí tuệ - Intellectual property.",
+      "B. Đăng ký thương hiệu – Trademarked.",
+      "C. Thuộc về tài sản công cộng – In the public domain.",
+      "D. Đã được đăng ký - Registered”."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Mục đích của việc áp dụng quyền tác giả đối với tác phẩm bản gốc của bạn (your original work) là?",
+    "img": null,
+    "options": [
+      "A. Nó cho phép những người khác có thể phân phối tác phẩm của bạn với một khoản phí danh nghĩa.",
+      "B. Nó thiết lập giá trị của tài sản trí tuệ của bạn cho việc xuất bản và phân phối.",
+      "C. Nó bảo vệ công trình của bạn trước những kẻ sao chép hoặc bán nó mà không xin phép bạn.",
+      "D. Nó đảm bảo có một watermark (dòng chữ mờ) trên tác phẩm gốc của bạn."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Mục đích của việc cấp giấy phép (licensing) là gì?",
+    "img": null,
+    "options": [
+      "A. Để cung cấp cho bạn quyền sử dụng một sản phẩm hoặc dịch vụ cụ thể từ một nhà cung cấp.",
+      "B. Để sử dụng một một sản phẩm hoặc dịch vụ cụ thể bất cứ lúc nào với bất cứ ai với một khoản phí.",
+      "C. Để chia sẻ quyền sở hữu sản phẩm hoặc dịch vụ cho bạn.",
+      "D. Để bảo vệ các sản phẩm hoặc dịch vụ trước khi bạn có bản quyền."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Bạn phát hiện ra một trò chơi phiêu lưu mà bạn sẽ phải trả 15$ để mua sau 30 ngày, nếu bạn muốn tiếp tục chơi trò chơi. Trò chơi này thuộc loại phần mềm nào?",
+    "img": null,
+    "options": [
+      "A. Mã nguồn mở (Open Source).",
+      "B. Shareware (Phần mềm chia sẻ - dùng thử).",
+      "C. Phần mềm miễn phí (Freeware).",
+      "D. Phần mềm công cộng (Public domain."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Bạn viết một bài hát và đã được trình bày bỡi một nhạc sỹ địa phương và bây giờ có doanh nghiệp quan tâm đến việc xuất bản nó. Loại giấy phép ghi nhận công của tác giả (Creative Commons license) bạn sẽ mua để những người khác có thể trình bày bài hát này là?",
+    "img": null,
+    "options": [
+      "A. Attribution-NoDerivs (Ghi công – không phái sinh).",
+      "B. Attribution –ShareAlike (Ghi công) chia sẻ tương tự).",
+      "C. Attribution –Non-Commercial – ShareAlike (Ghi công) Phi thương mại-Chia sẻ tương tự).",
+      "D. Attribution–Non-Commercial (Ghi công) Phi thương mại)."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Nếu bạn khóa chức năng gửi tin nhắn đến một công ty cụ thể nào đó, điều này gọi là gì?",
+    "img": null,
+    "options": [
+      "A. Gửi thư rác.",
+      "B. Danh sách đen (Blacklisting).",
+      "C. Danh sách trắng (Whitelisting).",
+      "D. Kiểm duyệt (Censorship)."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Bạn đọc một truyện ngắn có vẻ quen thuộc từ địa điểm, cốt truyện đến nhân vật. Chỉ có tên của nhân vật và một phần của cốt truyện có thay đổi, dẫn đến một kết thúc khác nhau. Đây là một ví dụ về?",
+    "img": null,
+    "options": [
+      "A. Vi phạm bản quyền.",
+      "B. Phỉ báng.",
+      "C. Vu khống.",
+      "D. Đạo văn."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Tốc độ của mạng quay số là bao nhiêu?",
+    "img": null,
+    "options": ["A.  3 kbps.", "B.  56 kbps.", "C.  5 Mbps.", "D.  16 Mbps."],
+    "answer": ["B"]
+  },
+  {
+    "question": "Đâu là phép toán để thu hẹp kết quả tìm kiếm?",
+    "img": null,
+    "options": ["A.  And.", "B.  Or.", "C.  Not."],
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "question": "Sắp xếp các bước để Router thực hiện gửi gói tin ở trong mạng?",
+    "img": null,
+    "options": [
+      "A.  Gỡ bỏ định dạng quy định bỡi giao thức của nơi gửi.",
+      "B.  Thay thế phần gỡ bỏ đó bằng định dạng theo giao thức của đích đến.",
+      "C.  Xác định thông tin của gói tin.",
+      "D.  Cập nhật thông tin về việc chuyển dữ liệu: địa chỉ, trạng thái của nơi gửi, nơi nhận.",
+      "E.  Gửi gói tin đến nơi nhận qua đường truyền tối ưu."
+    ],
+    "answer": ["A", "B", "C", "D", "E"]
+  },
+  {
+    "question": "Điều gì xảy ra khi bạn đăng ký dịch vụ Internet?",
+    "img": null,
+    "options": [
+      "A.  Bạn sẽ có được một kết nối tự động từ trường học hoặc doanh nghiệp của bạn để sử dụng tại nhà.",
+      "B.  Bạn nhận được một cáp điện thoại đặc biệt từ các nhà cung cấp để kết nối trực tiếp tới Internet.",
+      "C.  Bạn phải trả phí kết nối Internet thông qua một nhà cung cấp dịch vụ Internet (ISP).",
+      "D.  Bạn sẽ tự động nhận được một kết nối bổ sung vào Internet trên thiết bị di động của bạn."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Một máy tính cung cấp dịch vụ hoặc tạo ra các tài nguyên cho các máy tính khác gọi là:",
+    "img": null,
+    "options": [
+      "A.  Client (Máy khách).",
+      "B.  Server (Máy chủ).",
+      "C.  Workstation (Máy trạm).",
+      "D.  Supercomputer (Siêu máy tính)."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Một tập hợp các trang liên kết thông tin với nhau về một công ty cụ thể, một người, sản phẩm hay dịch vụ nào đó được gọi là?",
+    "img": null,
+    "options": [
+      "A.  Một nhà cung cấp dịch vụ Internet (ISP).",
+      "B.  Internet.",
+      "C.  Một trang web.",
+      "D.  Một máy chủ web."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Chọn hai loại kết nối trực tiếp mà bạn có thể đăng ký?",
+    "img": null,
+    "options": [
+      "A.  Dial-up.",
+      "B.  DSL.",
+      "C.  Browser.",
+      "D.  Cable.",
+      "E. Plug-in."
+    ],
+    "answer": ["B", "D"]
+  },
+  {
+    "question": "HTML là viết tắt của?",
+    "img": null,
+    "options": [
+      "A.  Hypertext Markup Links.",
+      "B.  Hypertext Management Logic.",
+      "C.  Hypertext Markup Language.",
+      "D.  Help Management Links."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Cái gì sau đây không liên quan đến URL?",
+    "img": null,
+    "options": [
+      "A.  Tên tài nguyên và tên miền.",
+      "B.  Giao thức định danh và tên tài nguyên.",
+      "C.  Siêu văn bản và tên miền.",
+      "D.  Siêu văn bản và trình duyệt thông tin."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Chọn ba cách nhận biết một siêu liên kết trên một trang web?",
+    "img": null,
+    "options": [
+      "A.  Văn bản xuất hiện với một đường gạch dưới (gạch chân).",
+      "B.  Văn bản xuất hiện trong một màu khác với văn bản xung quanh.",
+      "C.  Các cửa sổ pop-up xuất hiện khi bạn di chuyển con trỏ chuột của bạn xung quanh màn hình.",
+      "D.  Chỉ tay xuất hiện khi bạn di chuyển chuột qua một hình ảnh hoặc văn bản.",
+      "E.  Văn bản xuất hiện trong một biểu ngữ chạy đi chạy lại trên cùng của màn hình.",
+      "F.  Các siêu liên kết chỉ xuất hiện trong một thanh điều hướng."
+    ],
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "question": "Điều gì xảy ra khi bạn mở một tab mới trong Internet Explorer?",
+    "img": null,
+    "options": [
+      "A.  Bạn di chuyển đến một trang web khác, tương tự như cách nhấn vào nút Forward.",
+      "B.  Hiển thị hình thu nhỏ của các trang web bạn truy cập thường xuyên nhất và các điều khiển cho phép bạn điều hướng đến một URL khác.",
+      "C.  Một cửa sổ sẽ xuất hiện với các trang web hiện tại chế độ phục hồi (restored down view).",
+      "D.  Một cửa sổ sẽ xuất hiện với các tùy chọn để tùy chỉnh trình duyệt web."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Tại sao bạn có thể muốn thiết lập một trang web như là một trang ưa thích (favorite)?",
+    "img": null,
+    "options": [
+      "A.  Để ghi lại nội dung của trang web trong lịch sử duyệt web.",
+      "B.  Để tự động thêm trang web vào danh sách ứng dụng truyền thông xã hội ưa thích của bạn.",
+      "C.  Để đánh dấu địa chỉ website giúp bạn nhanh chóng truy cập vào trang náy bất cứ lúc nào.",
+      "D.  Để đánh dấu các trang web như trang chủ sẽ xuất hiện khi bạn khởi động trình duyệt."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Hai cách bạn có thể sử dụng các thư mục History trong trình duyệt web là gì?",
+    "img": null,
+    "options": [
+      "A.  Cung cấp một cách thuận tiện giúp xem lại các trang web, nếu bạn không nhớ chính xác URL.",
+      "B.  Để theo dõi bạn đang sử dụng Internet trong một khoảng thời gian bao lâu.",
+      "C.  Để truy cập vào các phiên bản trước đó của những trang web ưa thích của bạn.",
+      "D.  Tiếp tục theo dõi khi các trang web ưa thích của bạn được cập nhật.",
+      "E.  Để theo dõi các URL cho các trang web bạn truy cập trong một khoảng thời gian xác định."
+    ],
+    "answer": ["A", "E"]
+  },
+  {
+    "question": "Các chương trình mở rộng khả năng của trình duyệt web là gì?",
+    "img": null,
+    "options": ["A.  Update.", "B.  Plug-in.", "C.  Add-in.", "D.  Extend."],
+    "answer": ["B"]
+  },
+  {
+    "question": "Tại sao hướng dẫn thực hành tốt (good practice) là nên cập nhật các plug) in (trình cắm) đã được cài đặt trên hệ thống của bạn?",
+    "img": null,
+    "options": [
+      "A.  Cập nhật thường xuyên bao gồm thêm chức năng và thêm các tuy chọn bảo mật.",
+      "B.  Các trình duyệt web sẽ không làm việc trừ khi bạn cài đặt các bản cập nhật.",
+      "C.  Đó là thực hành tốt nhất để luôn luôn cài đặt các bản cập nhật mới nhất.",
+      "D.  Nhà cung cấp dịch vụ của bạn sẽ hủy bỏ dịch vụ nếu bạn không cài đặt tất cả các bản cập nhật plug-in."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Mục đích chính của việc thiết lập một mạng máy tính là gì?",
+    "img": null,
+    "options": [
+      "A.  Để truy cập vào bất kỳ thiết bị máy tính nào mà không cần mua chúng.",
+      "B.  Để cho phép hai hoặc nhiều máy tính giao tiếp, chia sẻ tài nguyên, trao đổi dữ liệu.",
+      "C.  Để tạo danh sách liên hệ cho các cá nhân và doanh nghiệp.",
+      "D.  Để truy cập được Internet."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Điều nào sau đây mô tả một mạng ngang hàng (peer-to –peer) ?",
+    "img": null,
+    "options": [
+      "A.  Các máy tính cá nhân và các thiết bị tương tác với nhau thông qua một máy chủ trung tâm.",
+      "B.  Người dùng cá nhân chỉ cần một kết nối Internet và trình duyệt để chia sẻ thông tin.",
+      "C.  Tất cả các máy tính tham gia nhiều hơn hoặc ít hơn bình đẳng với nhau không có máy chủ trung tâm."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Hệ điều hành nào sau đây hỗ trợ TCP/IP như là một giao thức mạng?",
+    "img": null,
+    "options": [
+      "A.  Windows, Mac OS, Linus/UNIX.",
+      "B.  Chỉ dành cho Windows.",
+      "C.  UNIX and Linux.",
+      "D.  Chỉ dành cho Mac OS."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Khi hai hay nhiều mạng LAN được kết nối với nhau sử dụng đường truyền công cộng thì những gì sẽ được tạo ra?",
+    "img": null,
+    "options": [
+      "A.  Một mạng diện rộng (WAN).",
+      "B.  Một mạng truy cập từ xa (RAS).",
+      "C.  Một mạng riêng ảo (VPN).",
+      "D.  Một mạng dựa trên máy chủ."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Thiết bị mạng LAN nào có thể kết nối hai hệ thống riêng lẻ hoặc nhiều mạng với nhau?",
+    "img": null,
+    "options": ["A.  Switch.", "B.  Hub.", "C.  Router.", "D.  Bridge."],
+    "answer": ["A"]
+  },
+  {
+    "question": "Thiết bị mạng LAN nào giúp xác định điểm đến, điểm đi cho mỗi mạng?",
+    "img": null,
+    "options": [
+      "A.  Switch.",
+      "B.  Hub.",
+      "C.  Router.",
+      "D.  Wired connection."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Ba điều nào sau đây là đúng khi nói về địa chỉ IP?",
+    "img": null,
+    "options": [
+      "A.  Trong mạng Ipv4, chúng là một loạt các số chia thành 4 phần ngăn cách bằng dấu gạch chéo.",
+      "B.  Chúng phải là duy nhất trong mạng.",
+      "C.  Chúng được thuê để các máy tính tham gia mạng trong một khoảng thời gian nhất định.",
+      "D.  Các máy tính là những thiết bị để có thể kết nối vào mạng cần phải có một địa chỉ IP.",
+      "E.  Chúng xác định các mạng mà máy chủ lưu trú và các máy chủ cụ thể trên mạng."
+    ],
+    "answer": ["B", "D", "F"]
+  },
+  {
+    "question": "Phần nào trong địa chỉ IP 200.168.212.226 là phần host?",
+    "img": null,
+    "options": [
+      "A.  212.",
+      "B.  200.",
+      "C.  200.168.",
+      "D.  212.226.",
+      "E.  226.",
+      "F. 200.168.212."
+    ],
+    "answer": ["E"]
+  },
+  {
+    "question": "Mạng WAN lớn nhất trên hành tinh là?",
+    "img": null,
+    "options": ["A.  Google.", "B.  Apple.", "C.  Mircosoft.", "D.  Internet."],
+    "answer": ["D"]
+  },
+  {
+    "question": "PSTN là gì?",
+    "img": null,
+    "options": [
+      "A.  Public switched telephone network.",
+      "B.  Private switch transfer network.",
+      "C.  Public systems telephone network.",
+      "D.  Protocol systems transfer network."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "POST là gì?",
+    "img": null,
+    "options": [
+      "A.  Protocol on transfer service.",
+      "B.  Public overall telephone system.",
+      "C.  Plain old telephone service.",
+      "D.  Packets over traditional systems."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Công nghệ sử dụng một đường truyền vật lý chuyên dụng để gửi và nhận thông tin là?",
+    "img": null,
+    "options": [
+      "A.  Chuyển mạch vòng (Circuit switching).",
+      "B.  Chuyển mạch gói (Packet switching).",
+      "C.  Chuyển mạch thông báo (Message Switching Network).",
+      "D.  Mạng ngang hàng (Peer-To-Peer Network)."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Tốc độ tải xuống tối thiểu có thể mong đợi với kết nối cáp là?",
+    "img": null,
+    "options": [
+      "A.  1-6 Mbps hoặc cao hơn.",
+      "B.  12 Mbps hoặc cao hơn.",
+      "C.  128Kbps hoặc cao hơn.",
+      "D.  8Mbps hoặc cao hơn."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hệ thống tên miền (Domain Name System) giúp bạn truy cập một trang web như thế nào?",
+    "img": null,
+    "options": [
+      "A.  Nó xác định một ISP lưu trữ một trang web.",
+      "B.  Nó cho phép bạn nhập vào một tên miền (qua URL) của địa chỉ IP.",
+      "C.  Nó chỉ ra các công ty sở hữu các trang web.",
+      "D.  Nó sẽ giúp xác định vùng) miền của trang web giúp cho việc chuyển dữ liệu nhanh hơn."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Điều nào sau đây là quá trình xác minh danh tính của người dùng khi đăng nhập vào một hệ thống hoặc mạng?",
+    "img": null,
+    "options": [
+      "A.  Group Control.",
+      "B.  Protocal Standard.",
+      "C.  Authentication.",
+      "D.  Certification."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Đâu là công nghệ kiểm tra mỗi gói dữ liệu khi nó đến và sau đó sử dụng quy tắc đơn giản để xác định xem nên cho phép gói tin đó tham gia vào mạng hay không?",
+    "img": null,
+    "options": [
+      "A.  Network Access Translation (NAT).",
+      "B.  Packet filtering.",
+      "C.  Stateful inspection.",
+      "D.  Proxy service."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Công nghệ nào cung cấp một kết nối được mã hóa và đáng tin cậy giữa các mạng máy tính cá nhân trên Internet?",
+    "img": null,
+    "options": [
+      "A.  Mạng không dây (wireless network).",
+      "B.  Wide Area Network.",
+      "C.  Virtual Private Network.",
+      "D.  Public Switched Telephone Network."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "WEP là gì?",
+    "img": null,
+    "options": [
+      "A.  Wired Equivalent Privacy.",
+      "B.  Wireless Equivalent Policies.",
+      "C.  Wireless Encryption Protocol.",
+      "D.  Wired Encryption Protocol."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hai giải pháp có thể thử nếu bạn không thể truy cập Internet mỗi lần bạn đăng nhập vào máy tính?",
+    "img": null,
+    "options": [
+      "A.  Kiểm tra tất cả các đèn báo trên modem/router/router không dây có hoạt động hay không.",
+      "B.  Thay đổi dải địa chỉ trên máy chủ DHCP của bạn.",
+      "C.  Kiểm tra tất cả các cáp kết nối mạng được an toàn và cắm đúng chỗ hay chưa.",
+      "D.  Đảm bảo bạn có một tài khoản email hợp lệ."
+    ],
+    "answer": ["A", "C"]
+  },
+  {
+    "question": "Nếu một modem đang hoạt động tốt, sau đó đột nhiên dừng làm việc, nguyên nhân khả dĩ là gì?",
+    "img": null,
+    "options": [
+      "A.  Cài đặt phần mêm máy in.",
+      "B.  Cập nhật Firmware.",
+      "C.  Nâng cấp hệ điều hành.",
+      "D.  Cài đặt chương trình ứng dụng."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Hệ thống của bạn hiển thị địa chỉ IP sau: 169.254.100.216. Địa chỉ này cho biết điều gì?",
+    "img": null,
+    "options": [
+      "A.  Hệ thống của bạn không thể kết nối đến máy chủ DHCP trên mạng.",
+      "B.  Một người nào khác trên mạng của bạn đang sử dụng địa chỉ IP này.",
+      "C.  Các máy chủ VPN của công ty bị lỗi.",
+      "D.  Các máy chủ DNS công ty bị lỗi."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hai khung thời gian quan trọng trong truyền thông điện tử là gì?",
+    "img": null,
+    "options": [
+      "A.  Thời gian thực và thời gian trì hoãn.",
+      "B.  Online và Offline.",
+      "C.  Tin nhắn văn bản và tin nhắn tức thời.",
+      "D.  Tức thời và trì hoãn."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hình thức truyền thông nào là tốt nhất khi sự hồi đáp không cần khẩn cấp?",
+    "img": null,
+    "options": [
+      "A.  Gửi tin nhắn tức thời.",
+      "B.  E-mail.",
+      "C.  Blog.",
+      "D.  Tin nhắn văn bản."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Việc sử dụng các tính năng đa phương tiện như video trong tin nhắn tức thời của bạn có ý nghĩa thế nào?",
+    "img": null,
+    "options": [
+      "A.  Bạn không cần thiết phải thiết lập một tài khoản để có thể gửi tin nhắn tức thời.",
+      "B.  Bạn có thể biết những người bạn đang nói chuyện cùng ở đầu dây bên kia.",
+      "C.  Cuộc trò chuyện trở thành thời gian thực khi bạn xem và trò chuyện với những người khác.",
+      "D.  Có nhiều phiên bản miễn phí cho các chương trình trò chuyện."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Tom gửi email cho Mary,Sara và Jane. Mary nhận thấy email được gửi cho mình và Jane, trong khi Jane thì thấy Tom chỉ gửi email cho mình còn Sara lại thấy email được gửi cho mình và Jane. Ta có thể nói gì về điều này?",
+    "img": null,
+    "options": [
+      "A.  Jane là người nhận trong trường To,Mary và Sara là người nhận trong trường CC.",
+      "B.  Jane là người nhận trong trường To, Mary và Sara là người nhận trong trường BCC.",
+      "C.  Mary và Sara là người nhận trong trường CC, Jane là người nhận trong trường BCC.",
+      "D.  Mary và Sara là người nhận trong trường To, Jane là người nhận trong trường BCC.",
+      "E.  Tom được đặt trong trường To, Jane được đặt trong trường CC, Sara và Mary được đặt trong BCC."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Khẳng định nào sau đây là đúng về tin nhắn văn bản và tin nhắn tức thời?",
+    "img": null,
+    "options": [
+      "A.  Tin nhắn văn bản được gửi qua mạng di động, tin nhắn tức thời được gửi qua Internet.",
+      "B.  Bạn có thể đính kèm hình ảnh hoặc video vào tin nhắn tức thời, nhưng tin nhắn văn bản thì không.",
+      "C.  Các tin nhắn tức thời được gửi bằng cách sử dụng tin nhắn SMS trong khi tin nhắn văn bản được gửi bằng cách sử dụng giao thực TCP/IP.",
+      "D.  Tin nhắn văn bản có thể bao gồm nhiều ký tự hơn tin nhắn tức thời."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Giao thức truyền thông cho phép bạn thực hiện cuộc gọi bằng cách sử dụng một kết nối Internet băng thông rộng?",
+    "img": null,
+    "options": [
+      "A.  Dịch vụ tin nhắn đa phương tiện.",
+      "B.  Transfer Control Protocol/Internet Protocol (TCP/IP).",
+      "C.  Voice over Internet Protocol.",
+      "D.  Post Officce Protocol."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Ba lợi ích của việc sử dụng các cuộc trò chuyện (chats) trong giao tiếp với người khác là gì?",
+    "img": null,
+    "options": [
+      "A.  Bạn có thể tham gia một khu vực khác để trò chuyện riêng tư.",
+      "B.  Đây là những văn bản trên web do đó cuộc trò chuyện của bạn được thực hiện nhanh hơn.",
+      "C.  Bạn có thể tham gia vào một cuộc thảo luận lớn với nhiều người.",
+      "D.  Có thể bật tính năng video để nhìn thấy nhau, tương tự như thời gian thực.",
+      "E.  Bạn có thể nói bất cứ điều gì bạn muốn, vì không có người điều hành."
+    ],
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "question": "Phương tiện nào bạn có thể sử dụng để tìm những người bạn cũ, gặp gỡ những người mới và chơi trò chơi trực tuyến?",
+    "img": null,
+    "options": [
+      "A.  Các trang mạng Xã hội.",
+      "B.  E-mail.",
+      "C.  VoIP.",
+      "D.  Tin nhắn văn bản.",
+      "E.  Tin nhắn tức thì."
+    ],
+    "answer": ["A", "D", "E"]
+  },
+  {
+    "question": "Ba nguyên tắc bạn có thể áp dụng khi giao tiếp trực tuyến với những người khác?",
+    "img": null,
+    "options": [
+      "A.  Bạn không cần phải lo lắng về độ dài của thông tin liên lạc.",
+      "B.  Luôn luôn kiểm tra chính tả và ngữ pháp trước khi gửi thông tin liên lạc bằng văn bản.",
+      "C.  Thường xuyên cập nhật các thông tin bạn muốn để mọi người biết về bạn.",
+      "D.  Tránh đưa các ý kiến sai lệch hoặc thù oán về bất cứ ai.",
+      "E.  Biểu tượng cảm xúc hoặc chữ viết tắt có thể được sử dụng để hạn chế việc phải nhập văn bản.",
+      "F.  Email không hoàn toàn thay thế được các hình thức khác của truyền thông thông thường."
+    ],
+    "answer": ["B", "D", "F"]
+  },
+  {
+    "question": "Đâu là tên miền trong địa chỉ e-mail: josmith@ccilearning.com?",
+    "img": null,
+    "options": [
+      "A.  Josmith.",
+      "B.  ccilearning.com.",
+      "C.  ccilearning.",
+      "D.  com."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Ba từ định dạng mà bạn có thể sử dụng cho khi tạo e) mail mới tin nhắn?",
+    "img": null,
+    "options": [
+      "A.  Định dạng Word.",
+      "B.  Rich Text.",
+      "C.  Plain Text.",
+      "D.  Database.",
+      "E.  HTML hay HyperText Markup Language."
+    ],
+    "answer": ["B", "C", "E"]
+  },
+  {
+    "question": "Hai lý do bạn nên đọc lại tin nhắn trước khi gửi?",
+    "img": null,
+    "options": [
+      "A.  Để đảm bảo bạn đã sửa tất cả lỗi chính tả hay ngữ pháp trong tin nhắn.",
+      "B.  Để giữ gìn sự chuyên nghiệp trong tất cả các thư từ kinh doanh.",
+      "C.  Để kiểm tra xem tất cả các địa chỉ e) mail là chính xác.",
+      "D.  Để kiểm tra xem tên của công ty đã được viết đúng chính tả."
+    ],
+    "answer": ["A", "B"]
+  },
+  {
+    "question": "Bạn nên cân nhắc điều gì trước khi trả lời tất cả mọi người trong cuộc hội thoại ban đầu?",
+    "img": null,
+    "options": [
+      "A.  Liệu rằng tất cả mọi người có cần phải xem trả lời của bạn.",
+      "B.  Làm thế nào để gửi file dữ liệu lớn qua Outlook trên hệ thống của bạn.",
+      "C.  Liệu có cần gửi một bản sao của thông điệp gốc hay không.",
+      "D.  Sẽ phải mất bao lâu để gửi thông điệp này đến nhiều người."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hai quá trình bạn nên thực hiện trước khi mở một e) mail có tập tin đính kèm?",
+    "img": null,
+    "options": [
+      "A.  Lưu tập tin đính kèm vào mạng và mở nó từ vị trí đó.",
+      "B.  In một bản sao của tập tin đính kèm để tham khảo.",
+      "C.  Đảm bảo chắc chắn rằng các tập tin đính kèm là thứ mà bạn đang đợi nhận.",
+      "D.  Lưu tập tin đính kèm và quét nó để đảm bảo không có virus."
+    ],
+    "answer": ["C", "D"]
+  },
+  {
+    "question": "Thư rác (Spam) là gì?",
+    "img": null,
+    "options": [
+      "A.  Tin nhắn từ nhà cung cấp như Microsoft yêu cầu bạn đăng nhập bằng cách sử dụng một liên kết được chỉ định rõ.",
+      "B.  Các tin nhắn không mong muốn, quảng bá sản phẩm và dịch vụ hoặc chính trị/quan điểm tôn giáo.",
+      "C.  Đính kèm từ các nhà cung cấp sản phẩm và dịch vụ.",
+      "D.  Thông điệp yêu cầu bạn đăng nhập vào một dịch vụ tài chính."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Nếu một thông báo bị đánh dấu nhầm là thư rác, làm cách nào để có thể bỏ đánh dấu nó?",
+    "img": null,
+    "options": [
+      "A.  Thiết lập bảo vệ junk e-mail ở mức thấp.",
+      "B.  Thêm địa chỉ email của người gửi vào danh sách Safe Senders.",
+      "C.  Nhấp chuột phải vào tin nhắn, bấm junk và nhấp vào Not Junk.",
+      "D.  Thêm địa chỉ email của người gửi vào danh sách người nhận an toàn."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Tại sao bạn thiết lập một chữ ký cho tất cả các tin nhắn mới?",
+    "img": null,
+    "options": [
+      "A.  Để tiết kiệm thời gian trong việc phải gõ tên của bạn và thông tin liên lạc mỗi lần gửi thư.",
+      "B.  Bao gồm một màu nền hoặc chủ đề với mỗi tin nhắn.",
+      "C.  Xác định người gửi tin nhắn nếu trường From để trống.",
+      "D.  Xác định vị trí nơi thư này được gửi."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Bất lợi của việc thiết lập một thư tự động trả lời khi bạn không có mặt ở văn phòng làm việc là gì?",
+    "img": null,
+    "options": [
+      "A.  Bạn phải nhớ để tắt tính năng này khi nó không còn cần thiết.",
+      "B.  Nó phải được kích hoạt tại các máy chủ trước khi bất kỳ thư trả lời nào được gửi.",
+      "C.  Một thư trả lời tự động sẽ gửi đến tất cả mọi người gửi thư cho bạn, trong đó có cả kẻ gửi thư rác.",
+      "D.  Bạn cần có một máy chủ mail phức tạp để sử dụng tính năng này."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Đâu là ký tự hoặc phép toán đúng trong tìm kiếm?",
+    "img": null,
+    "options": ["A.  <", "B.  >", "C.  Willcard ^", "D.  And", "E. No"],
+    "answer": ["C", "D"]
+  },
+  {
+    "question": "Khi cần tìm chính xác từ hoặc cụm từ ta sử dụng thêm ký tự nào ở đầu và cuối cụm từ nào cần tìm kiếm?",
+    "img": null,
+    "options": [
+      "A.  Dấu nháy đơn.",
+      "B.  Dấu nháy kép.",
+      "C.  Dấu ngoặc đơn.",
+      "D.  Dấu ngoặc vuông.",
+      "E.  Dấu lớn hơn và nhỏ hơn."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Trang web nào bao gồm các đối tượng đa phương tiện như video cá nhân hoặc đoạn phim?",
+    "img": null,
+    "options": [
+      "A.  Kraft Foods.",
+      "B.  Youtube.",
+      "C.  Microsoft.",
+      "D.  Wikipedia."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Mục đích của việc sử dụng một trang blog là gì?",
+    "img": null,
+    "options": [
+      "A.  Để các tổ chức gửi thông tin cho những cá nhân đăng ký nhận bản tin của họ.",
+      "B.  Để các cá nhân trò chuyện với những người khác trên thế giới về bất kỳ chủ đề nào đó.",
+      "C.  Để các cá nhân bình luận hoặc bày tỏ ý kiến trên các trang dành cho các chủ đề riêng.",
+      "D.  Để các tổ chức có thêm thành viên mới bằng cách cung cấp các sản phẩm hoặc dịch vụ miễn phí."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Nơi bạn có thể tìm kiếm trợ giúp từ bên ngoài?",
+    "img": null,
+    "options": [
+      "A.  Điện thoại.",
+      "B.  Tin nhắn tức thời (Tin nhắn nhanh–IM)."
+    ],
+    "answer": ["A", "B"]
+  },
+  {
+    "question": "Khi bạn thấy một bài viết về một người bạn của bạn mà bạn biết rằng điều đó là giả dối và có tính buộc tội, điều này là một ví dụ của?",
+    "img": null,
+    "options": [
+      "A.  Vu khống.",
+      "B.  Vi phạm bảng quyền.",
+      "C.  Đạo văn.",
+      "D.  Phỉ báng."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Sự sao chụp bất hợp pháp thường đi liền với?",
+    "img": null,
+    "options": [
+      "A.  Sự vi phạm bản quyền hoặc đạo văn.",
+      "B.  Sử dụng tài khoản của một vài người nào đó để gửi ý kiến về những người khác.",
+      "C.  Có những lời phỉ báng về chính phủ trên các phương tiện truyền thông.",
+      "D.  dửi virus vào mạng máy tính của tổ chức thông qua tin nhắn rác."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Thuật ngữ “flame” (khiêu khích) một người nào đó dùng để chỉ điều gì?",
+    "img": null,
+    "options": [
+      "A.  Gửi một yêu cầu cho quản trị trang web để chặn e-mail của ai đó.",
+      "B.  Gửi một e-mail/tin nhắn/bài viết mà cá nhân tấn công một ai đó.",
+      "C.  Chơi một trò đùa ác ý với người khác.",
+      "D.  Để bạn bóp méo sự thật mà bạn đã đăng trên một trang web."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Ba ví dụ về một công dân trực tuyến gương mẫu là gì?",
+    "img": null,
+    "options": [
+      "A.  Sử dụng e-mail là hình thức chính của bạn để liên lạc với những người khác.",
+      "B.  Chia sẻ các tập tin âm nhạc do bạn tạo ra từ một album mà bạn đã mua.",
+      "C.  Luôn thực hiện kiểm tra chính tả, đọc và chỉnh sửa mọi thông tin mà bạn sẽ gửi đi.",
+      "D.  Kiềm chế cảm xúc cá nhân trong giao tiếp, ngay cả khi đối tác không thực hiện điều đó.",
+      "E.  Không được sử dụng chữ viết tắt hoặc biểu tượng cảm xúc giao tiếp kinh doanh.",
+      "F.  Đăng các hình ảnh của bạn bè và đồng nghiệp tại các bữa tiệc lên Facebook."
+    ],
+    "answer": ["C", "D", "E"]
+  },
+  {
+    "question": "Bạn nên làm gì để tránh bị mất cắp dữ liệu từ máy tính bảng hoặc điện thoại của bạn khi bạn đang ở tại một địa điểm công cộng?",
+    "img": null,
+    "options": [
+      "A.  Giao máy tính bảng hoặc điện thoại cho người quản lý địa điểm xem cho đến khi bạn quay trở lại.",
+      "B.  Luôn luôn mang theo máy tính bảng hoặc điện thoại bên mình nếu bạn cần rời khỏi bàn.",
+      "C.  Không dùng máy tính bảng hoặc điện thoại tại nơi công cộng.",
+      "D.  Yêu cầu người ở bàn bên cạnh xem thiết bị của bạn cho đến khi bạn quay trở lại."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Ba chiến lược bạn có thể sử dụng để tạo ra một mật khẩu an toàn?",
+    "img": null,
+    "options": [
+      "A.  Sử dụng tên của vợ hoặc chồng, con hoặc con vật cưng của bạn.",
+      "B.  Cho phép trình duyệt ghi nhớ mật khẩu của bạn để dễ dàng truy cập vào một trang web ngoại lệ.",
+      "C.  Sử dụng kết hợp chữ hoa và chữ thường.",
+      "D.  Sử dụng tối thiểu 8 ký tự.",
+      "E.  Sử dụng tất cả các ký tự chữ cái cho một mật khẩu có độ dài 3 ký tự.",
+      "F.  Sử dụng kết hợp các chữ cái và chữ số."
+    ],
+    "answer": ["C", "D", "F"]
+  },
+  {
+    "question": "Một phần mềm được bí mật cài đặt trên hệ thống của bạn nhắm thu thập thông tin cá nhân hoặc riêng tư mà không được sự đồng ý của bạn hoặc bạn không hề hay biết, gọi là gì?",
+    "img": null,
+    "options": [
+      "A.  Spyware (Phần mềm gián điệp).",
+      "B.  Virus.",
+      "C.  Adware (Phần mềm quảng cáo).",
+      "D.  Trojan Horse."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Mối đe dọa nào sau đây được thiết kế để gây tổn hại cho hệ thống máy tính?",
+    "img": null,
+    "options": ["A.  Spyware.", "B.  Virus.", "C.  Adware.", "D.  Cookie."],
+    "answer": ["B"]
+  },
+  {
+    "question": "Mục đích chung của một tường lửa cá nhân là gì?",
+    "img": null,
+    "options": [
+      "A.  Theo dõi các yêu cầu truyền tin vào và ra khỏi hệ thống của bạn.",
+      "B.  Để ngăn chặn bất kỳ yêu cầu nào vào hệ thống của bạn.",
+      "C.  Chỉ để quét mỗi bản cập nhật phần mềm vào hệ thống của bạn.",
+      "D.  Để cảnh báo cho bạn khi có bản cập nhật mới cho các phần mềm đã cài đặt trên hệ thống của bạn."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Các tập tin còn sót lại là gì?",
+    "img": null,
+    "options": [
+      "A.  Các tập tin “tạp nham” (miscellaneous) được cài đặt cùng với một chương trình ứng dụng mới.",
+      "B.  Tập tin tạm thời hoặc hình ảnh được cung cấp với bản cài đặt của một chương trình ứng dụng mới.",
+      "C.  Các tập tin “tạp nham” còn lại trên ổ cứng sau khi gỡ bỏ cài đặt một chương trình ứng dụng.",
+      "D.  Các tập tin tài khoản kết hợp với một chương trình ứng dụng gỡ bỏ cài đặt."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "Các mẫu văn bản nhỏ được lưu trữ trên ổ cứng của bạn bỡi một máy chủ web với mục đích chia sẻ thông tin giữa các máy tính của bạn và các trang web gọi là?",
+    "img": null,
+    "options": [
+      "A.  Adware (Phần mềm quảng cáo).",
+      "B.  Residual file (Tập tin còn sót lại).",
+      "C.  Spyware (Phần mềm gián điệp).",
+      "D.  Cookie.",
+      "E. Webcache."
+    ],
+    "answer": ["D"]
+  },
+  {
+    "question": "Bạn bắt đầu thấy các cửa sổ “tạp nham” và các thông báo lỗi xuất hiện trên màn hình. Bạn nghi ngờ nguyên nhân nào có thể gây ra điều này?",
+    "img": null,
+    "options": [
+      "A.  Một chương trình phần mềm gián điệp hiện đang hoạt động và tìm kiếm thông tin trên hệ thống của bạn.",
+      "B.  Một người nào đó đã đạt được quyền truy cập trái phép vào hệ thống của bạn.",
+      "C.  Hệ thống này có thể bị nhiễm một loại virus.",
+      "D.  Các màn hình có thể bị lỗi và có thể cần phải thay thế."
+    ],
+    "answer": ["C"]
+  },
+  {
+    "question": "“Công thái học” (Ergonomics) nghĩa là gì?",
+    "img": null,
+    "options": [
+      "A.  Cơ sở khoa học của việc thiết kế thiết bị nhằm tối đa hóa an toàn và giảm thiểu sự thiếu tiện nghi.",
+      "B.  Cơ sở khoa học của việc thiết kế các chương trình phần mềm cho một số ngành công nghiệp đặc thù.",
+      "C.  Cơ sở khoa học của việc thiết kế các thiết bị đặc biệt để cắm vào hệ thống giúp tăng năng suất.",
+      "D.  Cơ sở khoa học của việc thiết kế bao bì phù hợp với các phần cứng đặc thù."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Hai đặc điểm trên trang web mà bạn cần chú ý để đảm bảo an toàn trước khi mua hàng trực tuyến?",
+    "img": null,
+    "options": [
+      "A.  Một biểu tượng ổ khóa xuất hiện trên thanh địa chỉ.",
+      "B.  Một biểu tượng giấy chứng nhận xuất hiện trên thanh địa chỉ.",
+      "C.  Bạn sẽ được nhắc để đăng nhập bằng mật khẩu.",
+      "D.  Giao thức https xuất hiện với các địa chỉ trang web.",
+      "E.  Một cửa sổ riêng biệt xuất hiện trong đó bạn có thể xác nhận đơn đặt hàng của bạn."
+    ],
+    "answer": ["A", "D"]
+  },
+  {
+    "question": "Kiểu tấn công mà ai đó thử thực hiện để lừa bạn cung cấp ra thông tin cá nhân hay các thông tin nhạy cảm được gọi là?",
+    "img": null,
+    "options": [
+      "A.  Spoofing.",
+      "B.  Phishing.",
+      "C.  Fishing.",
+      "D.  Cheating."
+    ],
+    "answer": ["B"]
+  },
+  {
+    "question": "Kiểu tấn công mà một trang web bất hợp pháp đóng vai như một trang hợp pháp, yêu cầu bạn làm một việc gì đó mà bạn không thường làm, chẳng hạn như cung cấp thông tin cá nhân, được gọi là?",
+    "img": null,
+    "options": [
+      "A.  Spoofing (Giả mạo).",
+      "B.  Phishing.",
+      "C.  Fake.",
+      "D.  Cheating."
+    ],
+    "answer": ["A"]
+  },
+  {
+    "question": "Ba chiến lược bạn nên dùng để xác định những thông tin có thể được chia sẻ khi trực tuyến (online)?",
+    "img": null,
+    "options": [
+      "A.  Hãy cẩn thận với việc chia sẻ, kinh doanh thông tin cá nhân như thông tin đăng nhập hay mật khẩu.",
+      "B.  Hãy cẩn thận với việc đăng thông tin cá nhân như tuổi tác hay giới tính của bạn.",
+      "C.  Hãy cẩn thận về độ dài của khoảng thời gian mà bạn được đăng ký sử dụng một trang web cụ thể.",
+      "D.  Hãy cẩn thận với những người hoặc cách bạn sẽ nói với những người khác rằng bạn sẽ được đi nghỉ và nghỉ trong bao lâu.",
+      "E.  Chỉ gia nhập trang web của trường học hoặc các tổ chức lớn.",
+      "F.  Chỉ theo dõi báo hoặc tạp chí nổi tiếng và được công nhận trên toàn cầu."
+    ],
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "question": "Chọn ba phương pháp mà bạn có thể sử dụng để bảo vệ thông tin trực tuyến riêng tư của bạn?",
+    "img": null,
+    "options": [
+      "A.  Không lựa chọn nhận e) mail từ công ty bên thứ ba về các sản phẩm liên quan.",
+      "B.  Không mua phần mềm của bên thứ ba mà trực tiếp giải quyết các vấn đề riêng tư.",
+      "C.  Xóa lịch sử trong trình duyệt web của bạn đối với tất cả các trang web truy cập gần đây.",
+      "D.  Kiềm chế việc nghiên cứu hoặc so sánh các sản phẩm và dịch vụ khi mua trực tuyến.",
+      "E.  Luôn luôn đăng ký bản quyền tác giả cho tác phẩm gốc của bạn với giấy phép Creative Commons.",
+      "F.  Không cài đặt bất ký add) ins hay thanh công cụ nào bao gồm sẵn trong các ứng dụng tải về."
+    ],
+    "answer": ["A", "C", "F"]
   }
 ]
