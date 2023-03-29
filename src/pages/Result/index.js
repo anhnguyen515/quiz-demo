@@ -10,7 +10,7 @@ export default function ResultPage() {
   const [searchParams] = useSearchParams();
 
   const theme = useTheme();
-  const isSmallScreen = useMediaQuery(theme.breakpoints.down("sm"));
+  const isSmallScreen = useMediaQuery(theme.breakpoints.down("md"));
 
   React.useEffect(() => {
     document.title = `Kết quả - ${SITE_NAME}`;
@@ -24,7 +24,7 @@ export default function ResultPage() {
       <Stack
         alignItems={"center"}
         direction={isSmallScreen ? "column" : "row"}
-        gap={1}
+        gap={2}
         mb={3}
       >
         <Typography fontSize={"1.4rem"} textAlign={"center"}>
