@@ -55,10 +55,10 @@ export default function QuizAnswerModal({
             overflow: "auto",
             maxHeight: "100vh",
             "::-webkit-scrollbar": {
-              width: "0.35rem",
+              width: "0.25rem",
             },
             "::-webkit-scrollbar-thumb": {
-              backgroundColor: theme.palette.primary.light,
+              backgroundColor: "lightGrey",
               borderRadius: "sm",
             },
           }}
@@ -93,7 +93,7 @@ export default function QuizAnswerModal({
               gap={3}
               my={2}
             >
-              <Stack sx={{ flex: 1 }}>
+              <Stack sx={{ width: "100%" }}>
                 <Typography fontWeight={600} gutterBottom textAlign={"center"}>
                   Đáp án của bạn
                 </Typography>
@@ -113,7 +113,7 @@ export default function QuizAnswerModal({
                 </Stack>
               </Stack>
 
-              <Stack sx={{ flex: 1 }}>
+              <Stack sx={{ width: "100%" }}>
                 <Typography fontWeight={600} gutterBottom textAlign={"center"}>
                   Đáp án đúng
                 </Typography>
