@@ -15,7 +15,7 @@ export default function QuizOption({ item, answers, handleChooseAnswer }) {
   return (
     <>
       <Button
-        color={checked ? "primary" : "text"}
+        color={checked ? "primary" : "neutral"}
         fullWidth
         onClick={() => {
           setChecked((prev) => !prev);
