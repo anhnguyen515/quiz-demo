@@ -6,6 +6,7 @@ import Button from "@mui/joy/Button";
 import Modal from "@mui/joy/Modal";
 import Sheet from "@mui/joy/Sheet";
 import Typography from "@mui/joy/Typography";
+import { useMediaQuery, useTheme } from "@mui/material";
 import * as React from "react";
 import { equalArrays } from "../../utils/utils";
 
@@ -18,6 +19,8 @@ export default function QuizAnswerModal({
   handleIncrementScore,
 }) {
   const [open, setOpen] = React.useState(false);
+  const theme = useTheme();
+  const isSmallScreen = useMediaQuery(theme.breakpoints.down("sm"));
 
   return (
     <React.Fragment>
@@ -47,7 +50,17 @@ export default function QuizAnswerModal({
             maxWidth: 700,
             borderRadius: "md",
             p: 4,
+            m: 2,
             boxShadow: "lg",
+            overflow: "auto",
+            maxHeight: "100vh",
+            "::-webkit-scrollbar": {
+              width: "0.35rem",
+            },
+            "::-webkit-scrollbar-thumb": {
+              backgroundColor: theme.palette.primary.light,
+              borderRadius: "sm",
+            },
           }}
         >
           <Typography
@@ -75,10 +88,9 @@ export default function QuizAnswerModal({
             </Typography>
             <Stack
               alignItems={"center"}
-              direction={"row"}
+              direction={isSmallScreen ? "column" : "row"}
               justifyContent={"space-between"}
-              divider={<Divider orientation="vertical" sx={{ mx: 2 }} />}
-              gap={1}
+              gap={3}
               my={2}
             >
               <Stack sx={{ flex: 1 }}>

@@ -1,6 +1,6 @@
 import CheckBoxOutlineBlankRoundedIcon from "@mui/icons-material/CheckBoxOutlineBlankRounded";
 import CheckBoxRoundedIcon from "@mui/icons-material/CheckBoxRounded";
-import { Button } from "@mui/joy";
+import { Button, Typography } from "@mui/joy";
 import React from "react";
 
 export default function QuizOption({ item, answers, handleChooseAnswer }) {
@@ -31,7 +31,9 @@ export default function QuizOption({ item, answers, handleChooseAnswer }) {
         sx={{ justifyContent: "flex-start" }}
         variant={checked ? "soft" : "plain"}
       >
-        {item}
+        <Typography color="inherit" textAlign={"start"}>
+          {item}
+        </Typography>
       </Button>
     </>
   );
